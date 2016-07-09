@@ -1,2 +1,2 @@
 # libstudy
-program to study linux static library
+program to study linux
