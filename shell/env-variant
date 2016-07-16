@@ -1,0 +1,9 @@
+#!/bin/bash
+#Just output environment variant
+
+echo Just output environment variant
+echo UID: $UID
+echo HOME:$HOME
+
+
+

@@ -1,0 +1,8 @@
+#!/bin/bash
+#Use the date as a file name
+
+today=`date +%y%m%d`
+echo $today
+ls /usr/bin -al > $HOME/gitpro/libstudy/shell/log.$today
+
+

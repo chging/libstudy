@@ -1,0 +1,4 @@
+#!/bin/bash
+#This is the first linux shell programm,just begin
+date
+who
