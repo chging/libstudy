@@ -1,0 +1,1730 @@
+总用量 135280
+drwxr-xr-x  2 root root      57344 7月   5 20:52 .
+drwxr-xr-x 12 root root       4096 7月   5 20:52 ..
+-rwxr-xr-x  1 root root      51920 2月  18 21:37 [
+lrwxrwxrwx  1 root root          8 7月   2 03:14 2to3 -> 2to3-2.7
+-rwxr-xr-x  1 root root         96 4月  18 01:15 2to3-2.7
+-rwxr-xr-x  1 root root         96 3月  31 19:49 2to3-3.5
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 411toppm
+-rwxr-xr-x  1 root root      19208 4月  15 08:06 a11y-profile-manager-indicator
+-rwxr-xr-x  1 root root      22696 4月  13 10:23 aa-enabled
+-rwxr-xr-x  1 root root      19064 4月  15 08:04 aconnect
+-rwxr-xr-x  1 root root      15072 4月   9 06:36 acpi_listen
+-rwxr-xr-x  1 root root     194288 3月   2 19:40 activity-log-manager
+-rwxr-xr-x  1 root root       6356 3月  22 15:57 add-apt-repository
+-rwxr-xr-x  1 root root      18888 4月  14 00:51 addpart
+lrwxrwxrwx  1 root root         26 7月   2 03:14 addr2line -> x86_64-linux-gnu-addr2line
+-rwxr-xr-x  1 root root      35560 4月  15 08:04 alsabat
+-rwxr-xr-x  1 root root      73224 4月  15 08:04 alsaloop
+-rwxr-xr-x  1 root root      65496 4月  15 08:04 alsamixer
+-rwxr-xr-x  1 root root      10504 4月  15 08:04 alsatplg
+-rwxr-xr-x  1 root root      15104 4月  15 08:04 alsaucm
+-rwxr-xr-x  1 root root      19064 4月  15 08:04 amidi
+-rwxr-xr-x  1 root root      52728 4月  15 08:04 amixer
+-rwxr-xr-x  1 root root       2668 11月 17  2014 amuFormat.sh
+lrwxrwxrwx  1 root root         25 7月   2 03:14 animate -> /etc/alternatives/animate
+lrwxrwxrwx  1 root root         57 6月   2 03:14 animate-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/animate
+-rwxr-xr-x  1 root root       5680 1月  31 07:13 anytopnm
+-rwxr-xr-x  1 root root        276 1月  10  2014 apg
+-rwxr-xr-x  1 root root      31488 1月  10  2014 apgbfm
+-rwxr-xr-x  1 root root      64984 4月  15 08:04 aplay
+-rwxr-xr-x  1 root root      23216 4月  15 08:04 aplaymidi
+-rwxr-xr-x  1 root root       2555 4月  14 11:16 apport-bug
+-rwxr-xr-x  1 root root      12566 4月  14 11:19 apport-cli
+lrwxrwxrwx  1 root root         10 7月   2 03:14 apport-collect -> apport-bug
+-rwxr-xr-x  1 root root       1848 4月  14 11:19 apport-unpack
+-rwxr-xr-x  1 root root      10488 5月   6  2015 appres
+-rwxr-xr-x  1 root root      35920 4月  18 23:57 appstreamcli
+lrwxrwxrwx  1 root root          6 7月   2 03:14 apropos -> whatis
+-rwxr-xr-x  1 root root      14376 4月  14 15:45 apt
+lrwxrwxrwx  1 root root         18 7月   2 03:14 apt-add-repository -> add-apt-repository
+-rwxr-xr-x  1 root root      80000 4月  14 15:45 apt-cache
+-rwxr-xr-x  1 root root      22656 4月  14 15:45 apt-cdrom
+-rwxr-xr-x  1 root root      18480 4月  14 15:45 apt-config
+-rwxr-xr-x  1 root root       1040 10月 13  2015 aptdcon
+-rwxr-xr-x  1 root root      22664 4月  14 15:45 apt-extracttemplates
+-rwxr-xr-x  1 root root     231552 4月  14 15:45 apt-ftparchive
+-rwxr-xr-x  1 root root      43128 4月  14 15:45 apt-get
+-rwxr-xr-x  1 root root      20771 4月  14 15:42 apt-key
+-rwxr-xr-x  1 root root      47232 4月  14 15:45 apt-mark
+-rwxr-xr-x  1 root root      26680 4月  14 15:45 apt-sortpkgs
+-rwxr-xr-x  1 root root        273 12月 16  2015 apturl
+-rwxr-xr-x  1 root root       1544 2月  16 20:07 apturl-gtk
+lrwxrwxrwx  1 root root         19 7月   2 03:14 ar -> x86_64-linux-gnu-ar
+-rwxr-xr-x  1 root root      31440 2月  18 21:37 arch
+lrwxrwxrwx  1 root root          5 7月   2 03:14 arecord -> aplay
+-rwxr-xr-x  1 root root      23272 4月  15 08:04 arecordmidi
+-rwxr-xr-x  1 root root      10520 4月   7 19:48 arm2hpdl
+-rwxr-xr-x  1 root root      18920 5月   8  2014 arping
+lrwxrwxrwx  1 root root         19 7月   2 03:14 as -> x86_64-linux-gnu-as
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 asciitopgm
+-rwxr-xr-x  1 root root      18928 4月  15 08:04 aseqdump
+-rwxr-xr-x  1 root root      19040 4月  15 08:04 aseqnet
+-rwxr-xr-x  1 root root     147256 2月   7 18:05 aspell
+-rwxr-xr-x  1 root root       2044 2月   7 18:05 aspell-import
+lrwxrwxrwx  1 root root          9 7月   2 03:14 assistant -> qtchooser
+-rwxr-xr-x  1 root root      26784 1月  31 07:14 atktopbm
+-rwxr-xr-x  1 root root      10568 2月  10 21:42 atobm
+-rwxr-xr-x  1 root root      27296 11月 24  2015 avahi-browse
+lrwxrwxrwx  1 root root         12 7月   2 03:14 avahi-browse-domains -> avahi-browse
+-rwxr-xr-x  1 root root      18968 11月 24  2015 avahi-publish
+lrwxrwxrwx  1 root root         13 7月   2 03:14 avahi-publish-address -> avahi-publish
+lrwxrwxrwx  1 root root         13 7月   2 03:14 avahi-publish-service -> avahi-publish
+-rwxr-xr-x  1 root root      14792 11月 24  2015 avahi-resolve
+lrwxrwxrwx  1 root root         13 7月   2 03:14 avahi-resolve-address -> avahi-resolve
+lrwxrwxrwx  1 root root         13 7月   2 03:14 avahi-resolve-host-name -> avahi-resolve
+-rwxr-xr-x  1 root root      14728 11月 24  2015 avahi-set-host-name
+lrwxrwxrwx  1 root root         21 7月   2 03:14 awk -> /etc/alternatives/awk
+-rwxr-xr-x  1 root root     190184 10月 27  2015 baobab
+-rwxr-xr-x  1 root root      39664 2月  18 21:37 base32
+-rwxr-xr-x  1 root root      39664 2月  18 21:37 base64
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 basename
+-rwxr-xr-x  1 root root       6946 9月   1  2015 bashbug
+-rwxr-xr-x  1 root root      85232 12月 12  2014 bc
+-rwxr-xr-x  1 root root     192792 3月   1 23:33 bccmd
+-rwxr-xr-x  1 root root      10456 5月   6  2015 bdftopcf
+-rwxr-xr-x  1 root root      10472 5月   6  2015 bdftruncate
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 bioradtopgm
+-rwxr-xr-x  1 root root      92984 2月  10 21:42 bitmap
+-rwxr-xr-x  1 root root      34888 3月   1 23:33 bluemoon
+-rwxr-xr-x  1 root root     137512 3月   1 23:33 bluetoothctl
+-rwxr-xr-x  1 root root      28080 1月  29 00:59 bluetooth-sendto
+-rwxr-xr-x  1 root root      36088 4月  14 06:27 bluetooth-wizard
+-rwxr-xr-x  1 root root      14552 1月  31 07:14 bmptopnm
+lrwxrwxrwx  1 root root          8 7月   2 03:14 bmptoppm -> bmptopnm
+-rwxr-xr-x  1 root root      10520 2月  10 21:42 bmtoa
+-rwxr-xr-x  1 root root      76224 4月  12 18:34 bootctl
+-rwxr-xr-x  1 root root     215488 4月  11 14:03 brltty-ctb
+-rwxr-xr-x  1 root root     166208 4月  11 14:03 brltty-trtxt
+-rwxr-xr-x  1 root root     192616 4月  11 14:03 brltty-ttb
+-rwxr-xr-x  1 root root     117920 3月  25 04:48 broadwayd
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 brushtopbm
+-rwxr-xr-x  1 root root      10520 3月   1 19:43 bsd-from
+-rwxr-sr-x  1 root tty       14752 3月   1 19:43 bsd-write
+-rwxr-xr-x  1 root root      26696 3月   1 23:33 btattach
+-rwxr-xr-x  1 root root     264280 3月   1 23:33 btmgmt
+-rwxr-xr-x  1 root root     589784 3月   1 23:33 btmon
+-rwxr-xr-x  1 root root     371928 4月  12 18:34 busctl
+lrwxrwxrwx  1 root root         21 7月   2 03:14 c++ -> /etc/alternatives/c++
+-rwxr-xr-x  1 root root      36607 3月  13 19:54 c2ph
+lrwxrwxrwx  1 root root         21 7月   2 03:14 c89 -> /etc/alternatives/c89
+-rwxr-xr-x  1 root root        428 5月   7  2006 c89-gcc
+lrwxrwxrwx  1 root root         21 7月   2 03:14 c99 -> /etc/alternatives/c99
+-rwxr-xr-x  1 root root        454 4月  11  2011 c99-gcc
+lrwxrwxrwx  1 root root          4 7月   2 03:14 cal -> ncal
+-rwxr-xr-x  1 root root      27848 3月   1 19:43 calendar
+-rwxr-xr-x  1 root root      23960 8月   7  2014 calibrate_ppa
+-rwxr-xr-x  1 root root      10488 1月  14  2016 canberra-gtk-play
+-rwxr-xr-x  1 root root      14328 3月  26 01:42 cancel
+lrwxrwxrwx  1 root root          3 7月   2 03:14 captoinfo -> tic
+-rwxr-xr-x  1 root root       3327 4月  15 06:10 catchsegv
+-rwxr-xr-x  1 root root      35288 11月  7  2015 catman
+-rwxr-xr-x  1 root root        853 10月 30  2015 cautious-launcher
+lrwxrwxrwx  1 root root         20 7月   2 03:14 cc -> /etc/alternatives/cc
+-rwxr-xr-x  1 root root      18424 11月  7  2015 cd-create-profile
+-rwxr-xr-x  1 root root      22520 11月  7  2015 cd-fix-profile
+-rwxr-xr-x  1 root root      10232 11月  7  2015 cd-iccdump
+-rwxr-xr-x  1 root root      18424 11月  7  2015 cd-it8
+lrwxrwxrwx  1 root root         24 7月   2 03:14 c++filt -> x86_64-linux-gnu-c++filt
+lrwxrwxrwx  1 root root         10 7月   2 03:14 chacl -> /bin/chacl
+-rwxr-sr-x  1 root shadow    62336 3月  29 17:25 chage
+lrwxrwxrwx  1 root root         11 7月   2 03:14 chardet3 -> chardetect3
+-rwxr-xr-x  1 root root        309 2月  11 01:12 chardetect3
+lrwxrwxrwx  1 root root          9 7月   2 03:14 charmap -> gucharmap
+-rwxr-xr-x  1 root root      10592 10月 30  2015 chattr
+-rwxr-xr-x  1 root root      64432 2月  18 21:37 chcon
+-rwxr-xr-x  1 root root       2771 4月  14 13:04 check-language-support
+-rwxr-xr-x  1 root root     255504 4月   4 23:43 cheese
+-rwsr-xr-x  1 root root      49584 3月  29 17:25 chfn
+-rwxr-xr-x  1 root root      27312 4月  14 00:51 chrt
+-rwsr-xr-x  1 root root      40432 3月  29 17:25 chsh
+-rwxr-xr-x  1 root root     136760 3月   1 23:33 ciptool
+-rwxr-xr-x  1 root root     147651 4月  20 09:11 ckbcomp
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 cksum
+-rwxr-xr-x  1 root root       6224 2月  19 16:22 clear
+-rwxr-xr-x  1 root root      10456 9月   1  2015 clear_console
+-rwxr-xr-x  1 root root      43696 12月 27  2015 cmp
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 cmuwmtopbm
+-rwxr-xr-x  1 root root      10480 9月  17  2015 codepage
+-rwxr-xr-x  1 root root      10504 3月   1 19:43 col
+-rwxr-xr-x  1 root root      10472 3月   1 19:43 colcrt
+-rwxr-xr-x  1 root root      51192 11月  7  2015 colormgr
+-rwxr-xr-x  1 root root      10464 3月   1 19:43 colrm
+-rwxr-xr-x  1 root root      14712 3月   1 19:43 column
+lrwxrwxrwx  1 root root          9 7月   2 03:14 combinediff -> interdiff
+-rwxr-xr-x  1 root root      35536 2月  18 21:37 comm
+lrwxrwxrwx  1 root root         25 7月   2 03:14 compare -> /etc/alternatives/compare
+lrwxrwxrwx  1 root root         57 6月   2 03:14 compare-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/compare
+-rwxr-xr-x  1 root root      14848 4月  15 13:47 compiz
+-rwxr-xr-x  1 root root       3040 4月  15 13:30 compiz-decorator
+lrwxrwxrwx  1 root root         11 7月   2 03:14 compose -> run-mailcap
+lrwxrwxrwx  1 root root         27 7月   2 03:14 composite -> /etc/alternatives/composite
+lrwxrwxrwx  1 root root         59 6月   2 03:14 composite-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/composite
+lrwxrwxrwx  1 root root         25 7月   2 03:14 conjure -> /etc/alternatives/conjure
+lrwxrwxrwx  1 root root         57 6月   2 03:14 conjure-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/conjure
+lrwxrwxrwx  1 root root         25 7月   2 03:14 convert -> /etc/alternatives/convert
+lrwxrwxrwx  1 root root         57 6月   2 03:14 convert-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/convert
+-rwxr-xr-x  1 root root      12792 3月  13 19:54 corelist
+-rwxr-xr-x  1 root root       7427 3月  13 19:54 cpan
+-rwxr-xr-x  1 root root       7448 3月  13 19:54 cpan5.22-x86_64-linux-gnu
+lrwxrwxrwx  1 root root          5 7月   2 03:14 cpp -> cpp-5
+-rwxr-xr-x  1 root root     915704 5月  13 01:32 cpp-5
+-rwxr-xr-x  1 root root       1043 1月   3  2016 crc32
+-rwxr-xr-x  1 root root        558 4月  17 04:01 createfontdatachunk
+-rwxr-xr-x  1 root root     131800 2月   1 20:56 credentials-preferences
+-rwxr-xr-x  1 root root       5231 5月   3 01:03 c_rehash
+-rwxr-sr-x  1 root crontab   36080 4月   6 05:59 crontab
+-rwxr-xr-x  1 root root      47984 2月  18 21:37 csplit
+lrwxrwxrwx  1 root root          6 7月   2 03:14 ctstat -> lnstat
+-rwxr-xr-x  1 root root      22880 2月  18 13:33 cups-calibrate
+-rwxr-xr-x  1 root root      14328 3月  26 01:42 cupstestdsc
+-rwxr-xr-x  1 root root      55368 3月  26 01:42 cupstestppd
+-rwxr-xr-x  1 root root     190408 2月  18 16:18 curl
+-rwxr-xr-x  1 root root      39728 2月  18 21:37 cut
+-rwxr-xr-x  1 root root      14656 4月   7 17:24 cvt
+-rwxr-xr-x  1 root root      10224 4月   2 00:41 dbus-cleanup-sockets
+-rwxr-xr-x  1 root root     224208 4月   2 00:41 dbus-daemon
+-rwxr-xr-x  1 root root      26616 4月   2 00:41 dbus-launch
+-rwxr-xr-x  1 root root      22520 4月   2 00:41 dbus-monitor
+-rwxr-xr-x  1 root root      10224 4月   2 00:41 dbus-run-session
+-rwxr-xr-x  1 root root      22512 4月   2 00:41 dbus-send
+-rwxr-xr-x  1 root root      14320 4月   2 00:41 dbus-update-activation-environment
+-rwxr-xr-x  1 root root      10224 4月   2 00:41 dbus-uuidgen
+-rwxr-xr-x  1 root root      47560 12月 12  2014 dc
+-rwxr-xr-x  1 root root      44168 5月  27  2015 dconf
+-rwxr-xr-x  1 root root      10488 9月  17  2015 deallocvt
+-rwxr-xr-x  1 root root       2859 11月 11  2015 debconf
+-rwxr-xr-x  1 root root      11541 11月 11  2015 debconf-apt-progress
+-rwxr-xr-x  1 root root        608 11月 11  2015 debconf-communicate
+-rwxr-xr-x  1 root root       1719 11月 11  2015 debconf-copydb
+-rwxr-xr-x  1 root root        647 11月 11  2015 debconf-escape
+-rwxr-xr-x  1 root root       2935 11月 11  2015 debconf-set-selections
+-rwxr-xr-x  1 root root       1827 11月 11  2015 debconf-show
+-rwxr-xr-x  1 root root      18426 2月  29 20:24 deb-systemd-helper
+-rwxr-xr-x  1 root root       4477 2月  29 20:24 deb-systemd-invoke
+-rwxr-xr-x  1 root root       1351 5月   6  2015 dehtmldiff
+-rwxr-xr-x  1 root root     173272 4月   8 03:49 deja-dup
+-rwxr-xr-x  1 root root      44616 4月   8 03:49 deja-dup-preferences
+-rwxr-xr-x  1 root root      18888 4月  14 00:51 delpart
+lrwxrwxrwx  1 root root          9 7月   2 03:14 designer -> qtchooser
+lrwxrwxrwx  1 root root         20 7月   2 03:14 desktop-file-edit -> desktop-file-install
+-rwxr-xr-x  1 root root      74720 4月   5 02:39 desktop-file-install
+-rwxr-xr-x  1 root root      66568 4月   5 02:39 desktop-file-validate
+-rwxr-xr-x  1 root root     159832 11月 24  2014 devdump
+-rwxr-xr-x  1 root root      40080 4月  15 03:33 dfu-tool
+-rwxr-xr-x  1 root root       2550 8月  19  2015 dh_bash-completion
+-rwxr-xr-x  1 root root       4108 3月  12  2015 dh_dkms
+-rwxr-xr-x  1 root root       9664 11月  8  2012 dh_installxmlcatalogs
+lrwxrwxrwx  1 root root         26 7月   2 03:14 dh_pypy -> ../share/dh-python/dh_pypy
+-rwxr-xr-x  1 root root       1056 12月 10  2015 dh_python2
+lrwxrwxrwx  1 root root         29 7月   2 03:14 dh_python3 -> ../share/dh-python/dh_python3
+-rwxr-xr-x  1 root root     126032 12月 27  2015 diff
+-rwxr-xr-x  1 root root      56176 12月 27  2015 diff3
+-rwxr-xr-x  1 root root      39504 2月   8 07:14 diffstat
+-rwxr-xr-x  1 root root     104544 4月  14 16:10 dig
+-rwxr-xr-x  1 root root      39640 2月  18 21:37 dircolors
+-rwxr-xr-x  1 root root     368840 4月   8 18:14 dirmngr
+-rwxr-xr-x  1 root root      96904 4月   8 18:14 dirmngr-client
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 dirname
+-rwxr-xr-x  1 root root      17143 11月 26  2006 dirsplit
+lrwxrwxrwx  1 root root         25 7月   2 03:14 display -> /etc/alternatives/display
+lrwxrwxrwx  1 root root         57 6月   2 03:14 display-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/display
+-rwxr-xr-x  1 root root      18944 4月   5 14:28 dm-tool
+-rwxr-xr-x  1 root root       6590 4月  16 12:17 do-release-upgrade
+-rwxr-xr-x  1 root root     278264 1月  13  2016 dpkg
+-rwxr-xr-x  1 root root      12623 1月  13  2016 dpkg-architecture
+-rwxr-xr-x  1 root root       6217 1月  13  2016 dpkg-buildflags
+-rwxr-xr-x  1 root root      23032 1月  13  2016 dpkg-buildpackage
+-rwxr-xr-x  1 root root       7503 1月  13  2016 dpkg-checkbuilddeps
+-rwxr-xr-x  1 root root     134520 1月  13  2016 dpkg-deb
+-rwxr-xr-x  1 root root       2770 1月  13  2016 dpkg-distaddfile
+-rwxr-xr-x  1 root root     138648 1月  13  2016 dpkg-divert
+-rwxr-xr-x  1 root root      17870 1月  13  2016 dpkg-genchanges
+-rwxr-xr-x  1 root root      14249 1月  13  2016 dpkg-gencontrol
+-rwxr-xr-x  1 root root      10637 1月  13  2016 dpkg-gensymbols
+-rwxr-xr-x  1 root root       6629 4月   8 00:55 dpkg-log-summary
+-rwxr-xr-x  1 root root      17765 1月  13  2016 dpkg-maintscript-helper
+-rwxr-xr-x  1 root root       8538 1月  13  2016 dpkg-mergechangelogs
+-rwxr-xr-x  1 root root       6789 1月  13  2016 dpkg-name
+-rwxr-xr-x  1 root root       4545 1月  13  2016 dpkg-parsechangelog
+-rwxr-xr-x  1 root root     146872 1月  13  2016 dpkg-query
+-rwxr-xr-x  1 root root       8409 1月  13  2016 dpkg-scanpackages
+-rwxr-xr-x  1 root root       9152 1月  13  2016 dpkg-scansources
+-rwxr-xr-x  1 root root      29572 1月  13  2016 dpkg-shlibdeps
+-rwxr-xr-x  1 root root      20332 1月  13  2016 dpkg-source
+-rwxr-xr-x  1 root root     109712 1月  13  2016 dpkg-split
+-rwxr-xr-x  1 root root      60496 1月  13  2016 dpkg-statoverride
+-rwxr-xr-x  1 root root      72672 1月  13  2016 dpkg-trigger
+-rwxr-xr-x  1 root root       3262 1月  13  2016 dpkg-vendor
+-rwxr-xr-x  1 root root     122032 2月  18 21:37 du
+lrwxrwxrwx  1 root root         13 7月   2 03:14 dumpkeys -> /bin/dumpkeys
+-rwxr-xr-x  1 root root       1023 2月  29 18:49 dvipdf
+lrwxrwxrwx  1 root root         20 7月   2 03:14 dwp -> x86_64-linux-gnu-dwp
+lrwxrwxrwx  1 root root         11 7月   2 03:14 edit -> run-mailcap
+-rwxr-xr-x  1 root root       2060 5月   6  2015 editdiff
+lrwxrwxrwx  1 root root         24 7月   2 03:14 editor -> /etc/alternatives/editor
+-rwxr-xr-x  1 root root      58872 5月   6  2015 editres
+-rwxr-xr-x  1 root root      31408 2月  25  2014 eject
+lrwxrwxrwx  1 root root         24 7月   2 03:14 elfedit -> x86_64-linux-gnu-elfedit
+-rwxr-xr-x  1 root root      39863 3月  13 19:54 enc2xs
+-rwxr-xr-x  1 root root       3028 3月  13 19:54 encguess
+-rwxr-xr-x  1 root root      18504 4月   5 21:33 enchant
+-rwxr-xr-x  1 root root      10232 4月   5 21:33 enchant-lsmod
+-rwxr-xr-x  1 root root       1508 4月  17 04:01 enhancer
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 env
+-rwxr-xr-x  1 root root      35336 2月  10 20:13 envsubst
+-rwxr-xr-x  1 root root      10568 3月  10 12:16 eog
+-rwxr-xr-x  1 root root        639 2月  29 18:49 eps2eps
+-rwxr-xr-x  1 root root     185536 1月  29 13:15 eqn
+-rwxr-xr-x  1 root root      10408 5月   7  2014 esc-m
+-rwxr-xr-x  1 root root     416912 3月   9 05:53 evince
+-rwxr-xr-x  1 root root      51416 3月   9 05:53 evince-previewer
+-rwxr-xr-x  1 root root      14424 3月   9 05:53 evince-thumbnailer
+lrwxrwxrwx  1 root root         20 7月   2 03:14 ex -> /etc/alternatives/ex
+-rwxr-xr-x  1 root root      31472 2月  18 21:37 expand
+-rwxr-sr-x  1 root shadow    22768 3月  29 17:25 expiry
+-rwxr-xr-x  1 root root       2439 4月  17 04:01 explode
+-rwxr-xr-x  1 root root      43760 2月  18 21:37 expr
+-rwxr-xr-x  1 root root      14504 1月  31 07:14 eyuvtoppm
+-rwxr-xr-x  1 root root      72464 2月  18 21:37 factor
+-rwxr-xr-x  1 root root      18688 3月  29 17:25 faillog
+-rwxr-xr-x  1 root root      27160 11月 24  2014 faked-sysv
+-rwxr-xr-x  1 root root      27216 11月 24  2014 faked-tcp
+lrwxrwxrwx  1 root root         26 7月   2 03:14 fakeroot -> /etc/alternatives/fakeroot
+-rwxr-xr-x  1 root root       3855 11月 24  2014 fakeroot-sysv
+-rwxr-xr-x  1 root root       3850 11月 24  2014 fakeroot-tcp
+-rwxr-xr-x  1 root root      23104 4月  14 00:51 fallocate
+-rwxr-xr-x  1 root root      14856 4月   6 23:52 fc-cache
+-rwxr-xr-x  1 root root      14792 4月   6 23:52 fc-cat
+-rwxr-xr-x  1 root root      10232 3月  25 02:42 fcitx
+-rwxr-xr-x  1 root root        277 12月 12  2015 fcitx-autostart
+-rwxr-xr-x  1 root root     111616 12月 10  2015 fcitx-config-gtk3
+-rwxr-xr-x  1 root root       5656 12月 12  2015 fcitx-configtool
+-rwxr-xr-x  1 root root      14328 3月  25 02:42 fcitx-dbus-watcher
+-rwxr-xr-x  1 root root      50050 12月 12  2015 fcitx-diagnose
+-rwxr-xr-x  1 root root     234208 7月  21  2015 fcitx-qimpanel
+-rwxr-xr-x  1 root root     246168 7月  21  2015 fcitx-qimpanel-configtool
+-rwxr-xr-x  1 root root      14328 3月  25 02:42 fcitx-remote
+-rwxr-xr-x  1 root root       1481 12月 12  2015 fcitx-skin-installer
+-rwxr-xr-x  1 root root      10568 4月   6 23:52 fc-list
+-rwxr-xr-x  1 root root      10632 4月   6 23:52 fc-match
+-rwxr-xr-x  1 root root      10568 4月   6 23:52 fc-pattern
+-rwxr-xr-x  1 root root      10536 4月   6 23:52 fc-query
+-rwxr-xr-x  1 root root      10584 4月   6 23:52 fc-scan
+-rwxr-xr-x  1 root root      10592 4月   6 23:52 fc-validate
+-rwxr-xr-x  1 root root     113672 1月  31 07:14 fiascotopnm
+-rwxr-xr-x  1 root root      19088 11月 20  2015 file
+-rwxr-xr-x  1 root root      18816 3月  26 01:49 file2brl
+-rwxr-xr-x  1 root root       3172 6月   5  2015 file-rename
+-rwxr-xr-x  1 root root     488248 10月 13  2015 file-roller
+-rwxr-xr-x  1 root root      44880 5月   6  2015 filterdiff
+-rwxr-xr-x  1 root root     221768 2月   8 07:18 find
+lrwxrwxrwx  1 root root         25 6月   6 20:52 firefox -> ../lib/firefox/firefox.sh
+-rwxr-xr-x  1 root root      14504 1月  31 07:14 fitstopnm
+-rwxr-xr-x  1 root root       1870 5月   6  2015 fixcvsdiff
+-rwxr-xr-x  1 root root       8369 11月 17  2015 fix-qdf
+-rwxr-xr-x  1 root root     476280 7月   5 20:52 flash-player-properties
+lrwxrwxrwx  1 root root          9 7月   2 03:14 flipdiff -> interdiff
+-rwxr-xr-x  1 root root      27352 4月  14 00:51 flock
+-rwxr-xr-x  1 root root      39632 2月  18 21:37 fmt
+-rwxr-xr-x  1 root root      35536 2月  18 21:37 fold
+-rwxr-xr-x  1 root root        311 2月  29 18:49 font2c
+-rwxr-xr-x  1 root root      35256 5月   6  2015 fonttosfnt
+-rwxr-xr-x  1 root root      33136 4月   7 19:48 foo2hbpl2
+-rwxr-xr-x  1 root root      18343 4月   7 19:48 foo2hbpl2-wrapper
+-rwxr-xr-x  1 root root      36208 4月   7 19:48 foo2hiperc
+-rwxr-xr-x  1 root root      18541 4月   7 19:48 foo2hiperc-wrapper
+-rwxr-xr-x  1 root root      36464 4月   7 19:48 foo2hp
+-rwxr-xr-x  1 root root      19204 4月   7 19:48 foo2hp2600-wrapper
+-rwxr-xr-x  1 root root      33200 4月   7 19:48 foo2lava
+-rwxr-xr-x  1 root root      20083 4月   7 19:48 foo2lava-wrapper
+-rwxr-xr-x  1 root root      36368 4月   7 19:48 foo2oak
+-rwxr-xr-x  1 root root      17871 4月   7 19:48 foo2oak-wrapper
+-rwxr-xr-x  1 root root      36240 4月   7 19:48 foo2qpdl
+-rwxr-xr-x  1 root root      19514 4月   7 19:48 foo2qpdl-wrapper
+-rwxr-xr-x  1 root root      32112 4月   7 19:48 foo2slx
+-rwxr-xr-x  1 root root      17603 4月   7 19:48 foo2slx-wrapper
+-rwxr-xr-x  1 root root      32112 4月   7 19:48 foo2xqx
+-rwxr-xr-x  1 root root      17572 4月   7 19:48 foo2xqx-wrapper
+-rwxr-xr-x  1 root root      37264 4月   7 19:48 foo2zjs
+lrwxrwxrwx  1 root root          5 7月   2 03:14 foo2zjs-icc2ps -> psicc
+-rwxr-xr-x  1 root root       2997 4月   7 19:48 foo2zjs-pstops
+-rwxr-xr-x  1 root root      25824 4月   7 19:48 foo2zjs-wrapper
+lrwxrwxrwx  1 root root         31 7月   2 03:14 foomatic-rip -> ../lib/cups/filter/foomatic-rip
+-rwxr-xr-x  1 root root      18808 1月  13  2016 free
+lrwxrwxrwx  1 root root         22 7月   2 03:14 from -> /etc/alternatives/from
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 fstopgm
+lrwxrwxrwx  1 root root         21 7月   2 03:14 ftp -> /etc/alternatives/ftp
+-rwxr-xr-x  1 root root      22864 11月 20  2015 funzip
+-rwxr-xr-x  1 root root      14328 3月  21 03:29 fwupdate
+-rwxr-xr-x  1 root root      61040 4月  15 03:33 fwupdmgr
+lrwxrwxrwx  1 root root          5 7月   2 03:14 g++ -> g++-5
+-rwxr-xr-x  1 root root      13560 1月  31 07:14 g3topbm
+-rwxr-xr-x  1 root root     919800 5月  13 01:45 g++-5
+-rwxr-xr-x  1 root root      10240 9月  18  2015 gamma4scanimage
+-rwxr-xr-x  1 root root      19008 4月  11 04:51 gapplication
+-rwxr-xr-x  1 root root     232160 3月   1 23:33 gatttool
+-rwxr-xr-x  1 root root      10696 2月   4 00:00 gcalccmd
+lrwxrwxrwx  1 root root          5 7月   2 03:14 gcc -> gcc-5
+-rwxr-xr-x  1 root root     915704 5月  13 02:06 gcc-5
+lrwxrwxrwx  1 root root          8 7月   2 03:14 gcc-ar -> gcc-ar-5
+-rwxr-xr-x  1 root root      31136 5月  13 02:06 gcc-ar-5
+lrwxrwxrwx  1 root root          8 7月   2 03:14 gcc-nm -> gcc-nm-5
+-rwxr-xr-x  1 root root      31136 5月  13 02:06 gcc-nm-5
+lrwxrwxrwx  1 root root         12 7月   2 03:14 gcc-ranlib -> gcc-ranlib-5
+-rwxr-xr-x  1 root root      31136 5月  13 02:06 gcc-ranlib-5
+-rwxr-xr-x  1 root root      56648 11月 27  2015 gconf-merge-tree
+lrwxrwxrwx  1 root root         11 7月   2 03:14 gconftool -> gconftool-2
+-rwxr-xr-x  1 root root      60672 11月 27  2015 gconftool-2
+-rwxr-xr-x  1 root root       2945 2月  25 01:40 gcore
+lrwxrwxrwx  1 root root          6 7月   2 03:14 gcov -> gcov-5
+-rwxr-xr-x  1 root root     474968 5月  13 02:06 gcov-5
+lrwxrwxrwx  1 root root         11 7月   2 03:14 gcov-tool -> gcov-tool-5
+-rwxr-xr-x  1 root root     462640 5月  13 02:06 gcov-tool-5
+-rwxr-xr-x  1 root root      10672 10月 23  2015 gcr-viewer
+-rwxr-xr-x  1 root root    6542312 2月  25 01:58 gdb
+-rwxr-xr-x  1 root root       1995 2月  25 01:58 gdb-add-index
+-rwxr-xr-x  1 root root     418336 2月  25 01:58 gdbserver
+-rwxr-xr-x  1 root root        126 2月  25 01:58 gdbtui
+-rwxr-xr-x  1 root root      35768 4月  11 04:51 gdbus
+-rwxr-xr-x  1 root root       9228 2月  16 23:29 gdialog
+-rwxr-xr-x  1 root root      10536 3月   4 07:42 gedit
+lrwxrwxrwx  1 root root          8 7月   2 03:14 gemtopbm -> gemtopnm
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 gemtopnm
+-rwxr-xr-x  1 root root      23168 4月  15 06:19 gencat
+-rwxr-xr-x  1 root root     601360 11月 24  2014 genisoimage
+lrwxrwxrwx  1 root root          3 7月   2 03:14 geqn -> eqn
+lrwxrwxrwx  1 root root         11 7月   2 03:14 GET -> lwp-request
+-rwxr-xr-x  1 root root      22944 4月  15 06:19 getconf
+-rwxr-xr-x  1 root root       6210 11月 24  2014 geteltorito
+-rwxr-xr-x  1 root root      27960 4月  15 06:19 getent
+lrwxrwxrwx  1 root root         12 7月   2 03:14 getfacl -> /bin/getfacl
+-rwxr-xr-x  1 root root      10488 9月  17  2015 getkeycodes
+-rwxr-xr-x  1 root root      14776 4月  14 00:51 getopt
+-rwxr-xr-x  1 root root      35312 2月  10 20:13 gettext
+-rwxr-xr-x  1 root root      43751 2月  10 20:13 gettextize
+-rwxr-xr-x  1 root root       4624 2月  10 20:13 gettext.sh
+lrwxrwxrwx  1 root root          2 7月   2 03:14 ghostscript -> gs
+-rwxr-xr-x  1 root root        642 4月  17 04:01 gifmaker
+-rwxr-xr-x  1 root root      18648 1月  31 07:14 giftopnm
+lrwxrwxrwx  1 root root         12 7月   2 03:14 ginstall-info -> install-info
+lrwxrwxrwx  1 root root         49 7月   2 03:14 gio-querymodules -> ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+-rwxr-xr-x  1 root root      14680 4月   7 19:48 gipddecode
+-rwxr-xr-x  1 root root    1862800 3月  23 11:45 git
+lrwxrwxrwx  1 root root          3 3月  23 11:45 git-receive-pack -> git
+-rwxr-xr-x  1 root root     894512 3月  23 11:45 git-shell
+lrwxrwxrwx  1 root root          3 3月  23 11:45 git-upload-archive -> git
+-rwxr-xr-x  1 root root     976720 3月  23 11:45 git-upload-pack
+-rwxr-xr-x  1 root root      10736 1月  28 22:15 gkbd-keyboard-display
+lrwxrwxrwx  1 root root         55 7月   2 03:14 glib-compile-resources -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-resources
+lrwxrwxrwx  1 root root         53 7月   2 03:14 glib-compile-schemas -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+-rwxr-xr-x  1 root root     407744 2月   4 00:00 gnome-calculator
+-rwxr-xr-x  1 root root     373808 4月  18 19:42 gnome-calendar
+lrwxrwxrwx  1 root root          9 7月   2 03:14 gnome-character-map -> gucharmap
+-rwxr-xr-x  1 root root      40544 12月  2  2015 gnome-disk-image-mounter
+-rwxr-xr-x  1 root root     521504 12月  2  2015 gnome-disks
+-rwxr-xr-x  1 root root      19208 4月  20 18:31 gnome-file-share-properties
+-rwxr-xr-x  1 root root      62320 11月  2  2015 gnome-font-viewer
+lrwxrwxrwx  1 root root          4 7月   2 03:14 gnome-help -> yelp
+lrwxrwxrwx  1 root root         15 7月   2 03:14 gnome-keyring -> gnome-keyring-3
+-rwxr-xr-x  1 root root      15144 11月  1  2015 gnome-keyring-3
+-rwxr-xr-x  1 root root    1014224 11月  1  2015 gnome-keyring-daemon
+-rwxr-xr-x  1 root root       1444 4月  14 13:04 gnome-language-selector
+-rwxr-xr-x  1 root root      69600 11月  4  2015 gnome-power-statistics
+-rwxr-xr-x  1 root root     136368 1月   4  2016 gnome-screensaver
+-rwxr-xr-x  1 root root      15176 1月   4  2016 gnome-screensaver-command
+-rwxr-xr-x  1 root root      83488 11月  3  2015 gnome-screenshot
+-rwxr-xr-x  1 root root        333 11月 12  2015 gnome-session
+-rwxr-xr-x  1 root root      10592 11月 12  2015 gnome-session-inhibit
+-rwxr-xr-x  1 root root      65608 11月 12  2015 gnome-session-properties
+-rwxr-xr-x  1 root root      10848 11月 12  2015 gnome-session-quit
+-rwxr-xr-x  1 root root     635408 4月  20 21:54 gnome-software
+-rwxr-xr-x  1 root root     121552 10月 19  2015 gnome-system-log
+-rwxr-xr-x  1 root root        255 4月  13  2013 gnome-system-log-pkexec
+-rwxr-xr-x  1 root root     331264 11月 12  2015 gnome-system-monitor
+-rwxr-xr-x  1 root root       3368 3月  16 02:05 gnome-terminal
+-rwxr-xr-x  1 root root      81928 3月  16 02:05 gnome-terminal.real
+-rwxr-xr-x  1 root root       1394 3月  16 02:00 gnome-terminal.wrapper
+lrwxrwxrwx  1 root root         35 7月   2 03:14 gnome-text-editor -> /etc/alternatives/gnome-text-editor
+-rwxr-xr-x  1 root root      23312 11月  2  2015 gnome-thumbnail-font
+lrwxrwxrwx  1 root root         35 7月   2 03:14 gnome-www-browser -> /etc/alternatives/gnome-www-browser
+lrwxrwxrwx  1 root root          7 7月   2 03:14 gold -> ld.gold
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 gouldtoppm
+-rwsr-xr-x  1 root root      75304 3月  29 17:25 gpasswd
+-rwxr-xr-x  1 root root    1008632 2月  12 21:08 gpg
+-rwxr-xr-x  1 root root     917032 4月   8 18:14 gpg2
+-rwxr-xr-x  1 root root     352872 4月   8 18:14 gpg-agent
+-rwxr-xr-x  1 root root     139720 4月   8 18:14 gpgconf
+-rwxr-xr-x  1 root root     142056 4月   8 18:14 gpg-connect-agent
+-rwxr-xr-x  1 root root      26696 4月   8 18:14 gpgparsemail
+-rwxr-xr-x  1 root root      60296 2月  12 21:08 gpgsplit
+-rwxr-xr-x  1 root root     372488 2月  12 21:08 gpgv
+-rwxr-xr-x  1 root root       3303 2月  12 21:08 gpg-zip
+lrwxrwxrwx  1 root root          3 7月   2 03:14 gpic -> pic
+lrwxrwxrwx  1 root root         22 7月   2 03:14 gprof -> x86_64-linux-gnu-gprof
+-rwxr-xr-x  1 root root      73336 4月  12 18:18 gpu-manager
+lrwxrwxrwx  1 root root         10 7月   2 03:14 grepdiff -> filterdiff
+-rwxr-xr-x  1 root root      18984 4月  11 04:51 gresource
+-rwxr-xr-x  1 root root     103744 1月  29 13:15 groff
+-rwxr-xr-x  1 root root       2780 1月  29 13:14 grog
+-rwxr-xr-x  1 root root     165600 1月  29 13:15 grops
+-rwxr-xr-x  1 root root     120160 1月  29 13:15 grotty
+-rwxr-xr-x  1 root root      31440 2月  18 21:37 groups
+-rwxr-xr-x  1 root root     234272 4月  16 06:02 grub-editenv
+-rwxr-xr-x  1 root root     647616 4月  16 06:02 grub-file
+-rwxr-xr-x  1 root root     780816 4月  16 06:02 grub-fstest
+-rwxr-xr-x  1 root root     229984 4月  16 06:02 grub-glue-efi
+-rwxr-xr-x  1 root root       1681 4月  16 06:00 grub-kbdcomp
+-rwxr-xr-x  1 root root     205464 4月  16 06:02 grub-menulst2cfg
+-rwxr-xr-x  1 root root     255264 4月  16 06:02 grub-mkfont
+-rwxr-xr-x  1 root root     317120 4月  16 06:02 grub-mkimage
+-rwxr-xr-x  1 root root     234400 4月  16 06:02 grub-mklayout
+-rwxr-xr-x  1 root root     358800 4月  16 06:02 grub-mknetdir
+-rwxr-xr-x  1 root root     234472 4月  16 06:02 grub-mkpasswd-pbkdf2
+-rwxr-xr-x  1 root root     229696 4月  16 06:02 grub-mkrelpath
+-rwxr-xr-x  1 root root     801824 4月  16 06:02 grub-mkrescue
+-rwxr-xr-x  1 root root     432872 4月  16 06:02 grub-mkstandalone
+-rwxr-xr-x  1 root root     595056 4月  16 06:02 grub-mount
+lrwxrwxrwx  1 root root         34 7月   2 03:14 grub-ntldr-img -> ../lib/grub/i386-pc/grub-ntldr-img
+-rwxr-xr-x  1 root root     664616 4月  16 06:02 grub-render-label
+-rwxr-xr-x  1 root root     254408 4月  16 06:02 grub-script-check
+-rwxr-xr-x  1 root root     611896 4月  16 06:02 grub-syslinux2cfg
+-rwxr-xr-x  1 root root      10456 2月  29 18:49 gs
+-rwxr-xr-x  1 root root        350 2月  29 18:49 gsbj
+-rwxr-xr-x  1 root root        352 2月  29 18:49 gsdj
+-rwxr-xr-x  1 root root        352 2月  29 18:49 gsdj500
+-rwxr-xr-x  1 root root      23216 4月  11 04:51 gsettings
+-rwxr-xr-x  1 root root      23464 11月 27  2015 gsettings-data-convert
+-rwxr-xr-x  1 root root      41811 11月 27  2015 gsettings-schema-convert
+-rwxr-xr-x  1 root root        353 2月  29 18:49 gslj
+-rwxr-xr-x  1 root root        350 2月  29 18:49 gslp
+-rwxr-xr-x  1 root root        277 2月  29 18:49 gsnd
+-rwxr-xr-x  1 root root      14976 3月  26 03:24 gst-device-monitor-1.0
+-rwxr-xr-x  1 root root      23512 3月  26 03:24 gst-discoverer-1.0
+-rwxr-xr-x  1 root root      40288 3月  26 01:53 gst-inspect-1.0
+-rwxr-xr-x  1 root root       1020 3月  16 23:40 gst-install
+-rwxr-xr-x  1 root root      31880 3月  26 01:53 gst-launch-1.0
+-rwxr-xr-x  1 root root      35904 3月  26 03:24 gst-play-1.0
+lrwxrwxrwx  1 root root         41 7月   2 03:14 gstreamer-codec-install -> /etc/alternatives/gstreamer-codec-install
+-rwxr-xr-x  1 root root      14856 3月  26 01:53 gst-typefind-1.0
+lrwxrwxrwx  1 root root          3 7月   2 03:14 gtbl -> tbl
+-rwxr-xr-x  1 root root      14616 4月   7 17:24 gtf
+-rwxr-xr-x  1 root root      19112 3月  25 04:48 gtk-builder-tool
+-rwxr-xr-x  1 root root      10744 3月  25 04:48 gtk-launch
+lrwxrwxrwx  1 root root         57 7月   2 03:14 gtk-update-icon-cache -> ../lib/x86_64-linux-gnu/libgtk2.0-0/gtk-update-icon-cache
+lrwxrwxrwx  1 root root         60 7月   2 03:14 gtk-update-icon-cache-3.0 -> ../lib/x86_64-linux-gnu/libgtk-3-0/gtk-update-icon-cache-3.0
+-rwxr-xr-x  1 root root     162296 4月  15 13:47 gtk-window-decorator
+-rwxr-xr-x  1 root root      74448 1月  28 10:50 gucharmap
+-rwxr-xr-x  1 root root      10792 4月  15 03:32 gvfs-cat
+-rwxr-xr-x  1 root root      11064 4月  15 03:32 gvfs-copy
+-rwxr-xr-x  1 root root      15192 4月  15 03:32 gvfs-info
+-rwxr-xr-x  1 root root        884 4月  15 03:31 gvfs-less
+-rwxr-xr-x  1 root root      15384 4月  15 03:32 gvfs-ls
+-rwxr-xr-x  1 root root      10840 4月  15 03:32 gvfs-mime
+-rwxr-xr-x  1 root root      10760 4月  15 03:32 gvfs-mkdir
+-rwxr-xr-x  1 root root      10760 4月  15 03:32 gvfs-monitor-dir
+-rwxr-xr-x  1 root root      10760 4月  15 03:32 gvfs-monitor-file
+-rwxr-xr-x  1 root root      31824 4月  15 03:32 gvfs-mount
+-rwxr-xr-x  1 root root      11016 4月  15 03:32 gvfs-move
+-rwxr-xr-x  1 root root      10888 4月  15 03:32 gvfs-open
+-rwxr-xr-x  1 root root      10712 4月  15 03:32 gvfs-rename
+-rwxr-xr-x  1 root root      10760 4月  15 03:32 gvfs-rm
+-rwxr-xr-x  1 root root      11080 4月  15 03:32 gvfs-save
+-rwxr-xr-x  1 root root      10848 4月  15 03:32 gvfs-set-attribute
+-rwxr-xr-x  1 root root      10872 4月  15 03:32 gvfs-trash
+-rwxr-xr-x  1 root root      15032 4月  15 03:32 gvfs-tree
+-rwxr-xr-x  1 root root      29162 3月  13 19:54 h2ph
+-rwxr-xr-x  1 root root      60775 3月  13 19:54 h2xs
+-rwxr-xr-x  1 root root      15026 1月   6  2016 hardening-check
+-rwxr-xr-x  1 root root      27056 4月   7 19:48 hbpldecode
+-rwxr-xr-x  1 root root     133016 3月   1 23:33 hciattach
+-rwxr-xr-x  1 root root     138776 3月   1 23:33 hcitool
+lrwxrwxrwx  1 root root          7 7月   2 03:14 hd -> hexdump
+-rwxr-xr-x  1 root root      39664 2月  18 21:37 head
+lrwxrwxrwx  1 root root         11 7月   2 03:14 HEAD -> lwp-request
+-rwxr-xr-x  1 root root       2514 4月   8 19:39 helpztags
+-rwxr-xr-x  1 root root      14408 3月   1 23:33 hex2hcd
+-rwxr-xr-x  1 root root      31232 3月   1 19:43 hexdump
+-rwxr-xr-x  1 root root      18840 4月   7 19:48 hipercdecode
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 hipstopgm
+-rwxr-xr-x  1 root root      88440 4月  14 16:10 host
+-rwxr-xr-x  1 root root      27280 2月  18 21:37 hostid
+-rwxr-xr-x  1 root root     294096 4月  12 18:34 hostnamectl
+lrwxrwxrwx  1 root root         23 7月   2 03:14 hp-align -> ../share/hplip/align.py
+lrwxrwxrwx  1 root root         23 7月   2 03:14 hp-check -> ../share/hplip/check.py
+lrwxrwxrwx  1 root root         23 7月   2 03:14 hp-clean -> ../share/hplip/clean.py
+lrwxrwxrwx  1 root root         26 7月   2 03:14 hp-colorcal -> ../share/hplip/colorcal.py
+lrwxrwxrwx  1 root root         36 7月   2 03:14 hp-config_usb_printer -> ../share/hplip/config_usb_printer.py
+lrwxrwxrwx  1 root root         24 7月   2 03:14 hp-doctor -> ../share/hplip/doctor.py
+lrwxrwxrwx  1 root root         26 7月   2 03:14 hp-firmware -> ../share/hplip/firmware.py
+lrwxrwxrwx  1 root root         22 7月   2 03:14 hp-info -> ../share/hplip/info.py
+lrwxrwxrwx  1 root root         24 7月   2 03:14 hp-levels -> ../share/hplip/levels.py
+lrwxrwxrwx  1 root root         28 7月   2 03:14 hp-logcapture -> ../share/hplip/logcapture.py
+lrwxrwxrwx  1 root root         25 7月   2 03:14 hp-makeuri -> ../share/hplip/makeuri.py
+lrwxrwxrwx  1 root root         27 7月   2 03:14 hp-pkservice -> ../share/hplip/pkservice.py
+lrwxrwxrwx  1 root root         24 7月   2 03:14 hp-plugin -> ../share/hplip/plugin.py
+-rwxr-xr-x  1 root root        719 3月  29 14:59 hp-plugin-ubuntu
+lrwxrwxrwx  1 root root         23 7月   2 03:14 hp-probe -> ../share/hplip/probe.py
+lrwxrwxrwx  1 root root         23 7月   2 03:14 hp-query -> ../share/hplip/query.py
+lrwxrwxrwx  1 root root         22 7月   2 03:14 hp-scan -> ../share/hplip/scan.py
+lrwxrwxrwx  1 root root         23 7月   2 03:14 hp-setup -> ../share/hplip/setup.py
+lrwxrwxrwx  1 root root         26 7月   2 03:14 hp-testpage -> ../share/hplip/testpage.py
+lrwxrwxrwx  1 root root         26 7月   2 03:14 hp-timedate -> ../share/hplip/timedate.py
+lrwxrwxrwx  1 root root          7 7月   2 03:14 i386 -> setarch
+lrwxrwxrwx  1 root root         34 7月   2 03:16 i686-linux-gnu-pkg-config -> /usr/share/pkg-config-crosswrapper
+-rwxr-xr-x  1 root root      27536 1月  19 21:49 ibus
+-rwxr-xr-x  1 root root     164152 1月  19 21:49 ibus-daemon
+-rwxr-xr-x  1 root root       1147 1月  19 21:48 ibus-setup
+-rwxr-xr-x  1 root root       1141 7月  23  2015 ibus-table-createdb
+-rwxr-xr-x  1 root root      31264 2月  27 17:09 iceauth
+-rwxr-xr-x  1 root root      45880 2月  10 21:42 ico
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 icontopbm
+-rwxr-xr-x  1 root root      60416 4月  15 06:19 iconv
+-rwxr-xr-x  1 root root      39760 2月  18 21:37 id
+lrwxrwxrwx  1 root root         26 7月   2 03:14 identify -> /etc/alternatives/identify
+lrwxrwxrwx  1 root root         58 6月   2 03:14 identify-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/identify
+-rwxr-xr-x  1 root root      18848 4月  15 08:04 iecset
+-rwxr-xr-x  1 root root     115176 3月  11 20:59 igt_stats
+-rwxr-xr-x  1 root root      31544 4月  26  2014 ijs_pxljr
+-rwxr-xr-x  1 root root      80184 1月  31 07:14 ilbmtoppm
+-rwxr-xr-x  1 root root       1241 1月  31 07:13 imagetops
+-rwxr-xr-x  1 root root      10811 3月  26 11:56 im-config
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 imgtoppm
+-rwxr-xr-x  1 root root       1030 3月  22  2015 im-launch
+lrwxrwxrwx  1 root root         24 7月   2 03:14 import -> /etc/alternatives/import
+lrwxrwxrwx  1 root root         56 6月   2 03:14 import-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/import
+-rwxr-xr-x  1 root root     219896 3月  12 17:46 info
+lrwxrwxrwx  1 root root         29 7月   2 03:14 infobrowser -> /etc/alternatives/infobrowser
+-rwxr-xr-x  1 root root      55880 2月  19 16:22 infocmp
+lrwxrwxrwx  1 root root          3 7月   2 03:14 infotocap -> tic
+-rwxr-xr-x  1 root root       6922 2月  29 23:15 init-checkconf
+-rwxr-xr-x  1 root root      18725 2月  29 23:15 initctl2dot
+-rwxr-xr-x  1 root root      22184 1月  10  2016 inputattach
+-rwxr-xr-x  1 root root     138840 2月  18 21:37 install
+-rwxr-xr-x  1 root root      44768 3月  12 17:46 install-info
+-rwxr-xr-x  1 root root         95 3月   8 09:15 install-printerdriver
+-rwxr-xr-x  1 root root       4332 3月  13 19:54 instmodsh
+-rwxr-xr-x  1 root root       1331 3月  11 20:59 intel_aubdump
+-rwxr-xr-x  1 root root     189928 3月  11 20:59 intel_audio_dump
+-rwxr-xr-x  1 root root     116200 3月  11 20:59 intel_backlight
+-rwxr-xr-x  1 root root      10528 3月  11 20:59 intel_bios_dumper
+-rwxr-xr-x  1 root root      31384 3月  11 20:59 intel_bios_reader
+-rwxr-xr-x  1 root root     111024 3月  11 20:59 intel_display_crc
+-rwxr-xr-x  1 root root     128488 3月  11 20:59 intel_display_poller
+-rwxr-xr-x  1 root root      10776 3月  11 20:59 intel_dump_decode
+-rwxr-xr-x  1 root root     139752 3月  11 20:59 intel_error_decode
+-rwxr-xr-x  1 root root     111048 3月  11 20:59 intel_firmware_decode
+-rwxr-xr-x  1 root root     116200 3月  11 20:59 intel_forcewaked
+-rwxr-xr-x  1 root root      10520 3月  11 20:59 intel_framebuffer_dump
+-rwxr-xr-x  1 root root     166880 3月  11 20:59 intel-gen4asm
+-rwxr-xr-x  1 root root      35216 3月  11 20:59 intel-gen4disasm
+-rwxr-xr-x  1 root root       2121 3月  11 20:59 intel_gpu_abrt
+-rwxr-xr-x  1 root root     115656 3月  11 20:59 intel_gpu_frequency
+-rwxr-xr-x  1 root root      69176 3月  11 20:59 intel-gpu-overlay
+-rwxr-xr-x  1 root root     116200 3月  11 20:59 intel_gpu_time
+-rwxr-xr-x  1 root root     140904 3月  11 20:59 intel_gpu_top
+-rwxr-xr-x  1 root root     111016 3月  11 20:59 intel_gtt
+-rwxr-xr-x  1 root root     128680 3月  11 20:59 intel_infoframes
+-rwxr-xr-x  1 root root     124488 3月  11 20:59 intel_l3_parity
+-rwxr-xr-x  1 root root     116232 3月  11 20:59 intel_lid
+-rwxr-xr-x  1 root root      14776 3月  11 20:59 intel_opregion_decode
+-rwxr-xr-x  1 root root     120392 3月  11 20:59 intel_panel_fitter
+-rwxr-xr-x  1 root root     211336 3月  11 20:59 intel_perf_counters
+-rwxr-xr-x  1 root root     182152 3月  11 20:59 intel_reg
+-rwxr-xr-x  1 root root     120296 3月  11 20:59 intel_reg_checker
+-rwxr-xr-x  1 root root     230504 3月  11 20:59 intel_residency
+-rwxr-xr-x  1 root root     119336 3月  11 20:59 intel_sprite_on
+-rwxr-xr-x  1 root root      10504 3月  11 20:59 intel_stepping
+-rwxr-xr-x  1 root root      64808 4月   5 18:35 intel-virtual-output
+-rwxr-xr-x  1 root root     128488 3月  11 20:59 intel_watermark
+-rwxr-xr-x  1 root root      48400 5月   6  2015 interdiff
+-rwxr-xr-x  1 root root      23128 4月  14 00:51 ionice
+-rwxr-xr-x  1 root root      23232 4月  14 00:51 ipcmk
+-rwxr-xr-x  1 root root      27176 4月  14 00:51 ipcrm
+-rwxr-xr-x  1 root root      47832 4月  14 00:51 ipcs
+-rwxr-xr-x  1 root root      19064 4月  13 16:40 ipod-read-sysinfo-extended
+-rwxr-xr-x  1 root root      10552 4月  13 16:40 ipod-time-sync
+lrwxrwxrwx  1 root root         19 7月   2 03:14 iptables-xml -> /sbin/xtables-multi
+-rwxr-xr-x  1 root root      10584 1月  27 02:17 ischroot
+-rwxr-xr-x  1 root root      18832 3月   3 19:47 isdv4-serial-debugger
+-rwxr-xr-x  1 root root      18912 3月   3 19:47 isdv4-serial-inputattach
+-rwxr-xr-x  1 root root     163928 11月 24  2014 isodump
+-rwxr-xr-x  1 root root     327056 11月 24  2014 isoinfo
+-rwxr-xr-x  1 root root     163864 11月 24  2014 isovfy
+-rwxr-xr-x  1 root root       7222 10月 24  2015 ispell-wrapper
+-rwxr-xr-x  1 root root      47888 2月  18 21:37 join
+-rwxr-xr-x  1 root root      27024 1月  31 07:14 jpegtopnm
+-rwxr-xr-x  1 root root      31600 11月 18  2014 jpgicc
+-rwxr-xr-x  1 root root       3918 3月  13 19:54 json_pp
+-rwxr-xr-x  1 root root        288 1月   7  2016 jwt3
+-rwxr-xr-x  1 root root      10504 9月  17  2015 kbdinfo
+-rwxr-xr-x  1 root root     146056 4月   8 18:14 kbxutil
+-rwxr-xr-x  1 root root      10232 3月  11 01:52 kerneloops-submit
+-rwxr-xr-x  1 root root      23736 2月   7 21:37 killall
+-rwxr-xr-x  1 root root       3759 2月  18 02:16 koi8rxterm
+-rwxr-xr-x  1 root root      94024 3月   1 23:33 l2ping
+-rwxr-xr-x  1 root root     106568 3月   1 23:33 l2test
+-rwxr-xr-x  1 root root      39768 4月  14 00:51 last
+lrwxrwxrwx  1 root root          4 7月   2 03:14 lastb -> last
+-rwxr-xr-x  1 root root      14368 3月  29 17:25 lastlog
+-rwxr-xr-x  1 root root      18832 4月   7 19:48 lavadecode
+-rwxr-xr-x  1 root root       7786 3月  17 04:58 lcf
+lrwxrwxrwx  1 root root          9 7月   2 03:14 lconvert -> qtchooser
+lrwxrwxrwx  1 root root         19 7月   2 03:14 ld -> x86_64-linux-gnu-ld
+lrwxrwxrwx  1 root root         23 7月   2 03:14 ld.bfd -> x86_64-linux-gnu-ld.bfd
+-rwxr-xr-x  1 root root       5420 4月  15 06:10 ldd
+lrwxrwxrwx  1 root root         24 7月   2 03:14 ld.gold -> x86_64-linux-gnu-ld.gold
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 leaftoppm
+lrwxrwxrwx  1 root root          9 7月   2 03:14 less -> /bin/less
+lrwxrwxrwx  1 root root         13 7月   2 03:14 lessecho -> /bin/lessecho
+lrwxrwxrwx  1 root root         13 7月   2 03:14 lessfile -> /bin/lessfile
+lrwxrwxrwx  1 root root         12 7月   2 03:14 lesskey -> /bin/lesskey
+lrwxrwxrwx  1 root root         13 7月   2 03:14 lesspipe -> /bin/lesspipe
+-rwxr-xr-x  1 root root      92744 11月  7  2015 lexgrog
+-rwxr-xr-x  1 root root      15719 3月  13 19:54 libnetcfg
+lrwxrwxrwx  1 root root         34 6月  28 16:08 libreoffice -> ../lib/libreoffice/program/soffice
+-rwxr-xr-x  1 root root      10552 1月  22 19:10 libwacom-list-local-devices
+-rwxr-xr-x  1 root root      10568 4月  14 00:51 line
+lrwxrwxrwx  1 root root          9 7月   2 03:14 linguist -> qtchooser
+-rwxr-xr-x  1 root root      31376 2月  18 21:37 link
+-rwxr-xr-x  1 root root      23136 11月 18  2014 linkicc
+lrwxrwxrwx  1 root root         32 7月   2 03:14 lintian -> ../share/lintian/frontend/dplint
+lrwxrwxrwx  1 root root         32 7月   2 03:14 lintian-info -> ../share/lintian/frontend/dplint
+lrwxrwxrwx  1 root root         32 7月   2 03:14 lintian-lab-tool -> ../share/lintian/frontend/dplint
+lrwxrwxrwx  1 root root          7 7月   2 03:14 linux32 -> setarch
+lrwxrwxrwx  1 root root          7 7月   2 03:14 linux64 -> setarch
+-rwxr-xr-x  1 root root       1577 1月  20  2011 linux-boot-prober
+-rwxr-xr-x  1 root root       2696 8月   5  2015 linux-version
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 lispmtopgm
+-rwxr-xr-x  1 root root      11032 5月   6  2015 listres
+-rwxr-xr-x  1 root root      19128 4月   5 20:16 lnstat
+lrwxrwxrwx  1 root root         13 7月   2 03:14 loadkeys -> /bin/loadkeys
+-rwxr-xr-x  1 root root      27240 9月  17  2015 loadunimap
+-rwxr-xr-x  1 root root         59 6月  28 14:12 localc
+-rwxr-xr-x  1 root root      38816 4月  15 06:19 locale
+-rwxr-xr-x  1 root root     302304 4月  12 18:34 localectl
+-rwxr-xr-x  1 root root     323288 4月  15 06:19 localedef
+lrwxrwxrwx  1 root root         24 7月   2 03:14 locate -> /etc/alternatives/locate
+-rwxr-xr-x  1 root root         59 6月  28 14:12 lodraw
+-rwxr-xr-x  1 root root         53 6月  28 14:12 loffice
+-rwxr-xr-x  1 root root         64 6月  28 14:12 lofromtemplate
+-rwxr-xr-x  1 root root      36200 4月  14 00:51 logger
+-rwxr-xr-x  1 root root      27312 2月  18 21:37 logname
+-rwxr-xr-x  1 root root         62 6月  28 14:12 loimpress
+-rwxr-xr-x  1 root root         59 6月  28 14:12 lomath
+-rwxr-xr-x  1 root root      10552 3月   1 19:43 look
+-rwxr-xr-x  1 root root       2763 3月   1 19:43 lorder
+-rwxr-xr-x  1 root root         58 6月  28 14:12 loweb
+-rwxr-xr-x  1 root root         61 6月  28 14:12 lowriter
+-rwxr-xr-x  1 root root      18424 3月  26 01:42 lp
+-rwxr-xr-x  1 root root      14408 3月  26 01:42 lpoptions
+-rwxr-xr-x  1 root root      14408 3月  26 01:42 lpq
+-rwxr-xr-x  1 root root      14328 3月  26 01:42 lpr
+-rwxr-xr-x  1 root root      10232 3月  26 01:42 lprm
+-rwxr-xr-x  1 root root      43824 12月  8  2015 lp_solve
+-rwxr-xr-x  1 root root      31008 3月  26 01:42 lpstat
+lrwxrwxrwx  1 root root          9 7月   2 03:14 lrelease -> qtchooser
+lrwxrwxrwx  1 root root         40 4月   5 22:49 lrelease-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/lrelease
+-rwxr-xr-x  1 root root      10576 10月 30  2015 lsattr
+-rwxr-xr-x  1 root root       3638 8月  26  2015 lsb_release
+-rwxr-xr-x  1 root root      56440 4月  14 00:51 lscpu
+lrwxrwxrwx  1 root root         10 7月   2 03:14 lsdiff -> filterdiff
+-rwxr-xr-x  1 root root     639168 10月 15  2015 lshw
+-rwxr-xr-x  1 root root       2486 8月  17  2015 lsinitramfs
+-rwxr-xr-x  1 root root      60416 4月  14 00:51 lsipc
+-rwxr-xr-x  1 root root      31832 4月  14 00:51 lslocks
+-rwxr-xr-x  1 root root      52376 4月  14 00:51 lslogins
+-rwxr-xr-x  1 root root     163224 10月 29  2015 lsof
+-rwxr-xr-x  1 root root      73968 2月   5 04:59 lspci
+-rwxr-xr-x  1 root root       1081 6月  26  2014 lspgpot
+-rwxr-xr-x  1 root root     105128 10月 24  2015 lsusb
+-rwxr-xr-x  1 root root     305408 4月  12 13:48 ltrace
+-rwxr-xr-x  1 root root      41688 5月   6  2015 luit
+lrwxrwxrwx  1 root root          9 7月   2 03:14 lupdate -> qtchooser
+lrwxrwxrwx  1 root root         39 4月   5 22:49 lupdate-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/lupdate
+-rwxr-xr-x  1 root root       8635 12月  6  2015 lwp-download
+-rwxr-xr-x  1 root root       2797 12月  6  2015 lwp-dump
+-rwxr-xr-x  1 root root       2478 12月  6  2015 lwp-mirror
+-rwxr-xr-x  1 root root      15059 12月  6  2015 lwp-request
+-rwxr-xr-x  1 root root        419 2月  18 02:16 lxterm
+lrwxrwxrwx  1 root root          2 7月   2 03:14 lz -> uz
+lrwxrwxrwx  1 root root         23 7月   2 03:14 lzcat -> /etc/alternatives/lzcat
+lrwxrwxrwx  1 root root         23 7月   2 03:14 lzcmp -> /etc/alternatives/lzcmp
+lrwxrwxrwx  1 root root         24 7月   2 03:14 lzdiff -> /etc/alternatives/lzdiff
+lrwxrwxrwx  1 root root         25 7月   2 03:14 lzegrep -> /etc/alternatives/lzegrep
+lrwxrwxrwx  1 root root         25 7月   2 03:14 lzfgrep -> /etc/alternatives/lzfgrep
+lrwxrwxrwx  1 root root         24 7月   2 03:14 lzgrep -> /etc/alternatives/lzgrep
+lrwxrwxrwx  1 root root         24 7月   2 03:14 lzless -> /etc/alternatives/lzless
+lrwxrwxrwx  1 root root         22 7月   2 03:14 lzma -> /etc/alternatives/lzma
+-rwxr-xr-x  1 root root      10504 2月  12  2014 lzmainfo
+lrwxrwxrwx  1 root root         24 7月   2 03:14 lzmore -> /etc/alternatives/lzmore
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 macptopbm
+-rwxr-xr-x  1 root root     207528 2月  15 19:13 make
+-rwxr-xr-x  1 root root       4905 2月  15 19:10 make-first-existing-target
+-rwxr-xr-x  1 root root     107008 11月  7  2015 man
+-rwxr-xr-x  1 root root     129760 11月  7  2015 mandb
+-rwxr-xr-x  1 root root      31200 11月  7  2015 manpath
+-rwxr-xr-x  1 root root      19080 9月  17  2015 mapscrn
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mattrib -> mtools
+-rwxr-xr-x  1 root root     117768 3月  24  2014 mawk
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mbadblocks -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mcat -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mcd -> mtools
+-rwxr-xr-x  1 root root       1679 11月 17  2014 mcheck
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mclasserase -> mtools
+-rwxr-xr-x  1 root root        847 11月 17  2014 mcomp
+-rwxr-xr-x  1 root root      27352 4月  14 00:51 mcookie
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mcopy -> mtools
+-rwxr-xr-x  1 root root      43792 2月  18 21:37 md5sum
+lrwxrwxrwx  1 root root          6 7月   2 03:14 md5sum.textutils -> md5sum
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 mdatopbm
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mdel -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mdeltree -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mdir -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mdu -> mtools
+-rwxr-xr-x  1 root root      10616 4月  14 00:51 mesg
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mformat -> mtools
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 mgrtopbm
+-rwxr-xr-x  1 root root       8711 6月  27  2015 mimeopen
+-rwxr-xr-x  1 root root      12145 6月  27  2015 mimetype
+-rwxr-xr-x  1 root root      20120 5月   7  2014 min12xxw
+lrwxrwxrwx  1 root root          6 7月   2 03:14 minfo -> mtools
+-rwxr-xr-x  1 root root      60368 2月  18 21:37 mkfifo
+-rwxr-xr-x  1 root root         65 5月   6  2015 mkfontdir
+-rwxr-xr-x  1 root root      31824 5月   6  2015 mkfontscale
+lrwxrwxrwx  1 root root         11 7月   2 03:14 mkisofs -> genisoimage
+-rwxr-xr-x  1 root root      10576 11月 17  2014 mkmanifest
+-rwxr-xr-x  1 root root      16163 9月  17  2015 mk_modmap
+-rwxr-xr-x  1 root root     178296 2月  24 19:33 mksquashfs
+-rwxr-xr-x  1 root root      23040 11月 24  2014 mkzftree
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mlabel -> mtools
+-rwxr-sr-x  1 root mlocate   39520 11月 18  2014 mlocate
+-rwxr-xr-x  1 root root     145832 11月  4  2015 mmcli
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mmd -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mmount -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mmove -> mtools
+lrwxrwxrwx  1 root root          9 7月   2 03:14 moc -> qtchooser
+lrwxrwxrwx  1 root root         35 4月   5 22:49 moc-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/moc
+lrwxrwxrwx  1 root root         25 7月   2 03:14 mogrify -> /etc/alternatives/mogrify
+lrwxrwxrwx  1 root root         57 6月   2 03:14 mogrify-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/mogrify
+lrwxrwxrwx  1 root root         25 7月   2 03:14 montage -> /etc/alternatives/montage
+lrwxrwxrwx  1 root root         57 6月   2 03:14 montage-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/montage
+-rwxr-xr-x  1 root root      65456 12月 10  2014 mousetweaks
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mpartition -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mrd -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mren -> mtools
+-rwxr-xr-x  1 root root      10480 6月  20  2013 mscompress
+-rwxr-xr-x  1 root root      10480 6月  20  2013 msexpand
+-rwxr-xr-x  1 root root      22880 2月  10 20:13 msgattrib
+-rwxr-xr-x  1 root root      22872 2月  10 20:13 msgcat
+-rwxr-xr-x  1 root root      22984 2月  10 20:13 msgcmp
+-rwxr-xr-x  1 root root      18760 2月  10 20:13 msgcomm
+-rwxr-xr-x  1 root root      18744 2月  10 20:13 msgconv
+-rwxr-xr-x  1 root root      18744 2月  10 20:13 msgen
+-rwxr-xr-x  1 root root      14680 2月  10 20:13 msgexec
+-rwxr-xr-x  1 root root      27048 2月  10 20:13 msgfilter
+-rwxr-xr-x  1 root root      77104 2月  10 20:13 msgfmt
+-rwxr-xr-x  1 root root      35520 2月  10 20:13 msggrep
+-rwxr-xr-x  1 root root      44104 2月  10 20:13 msginit
+-rwxr-xr-x  1 root root      52520 2月  10 20:13 msgmerge
+-rwxr-xr-x  1 root root      31256 2月  10 20:13 msgunfmt
+-rwxr-xr-x  1 root root      18752 2月  10 20:13 msguniq
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mshortname -> mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mshowfat -> mtools
+-rwxr-xr-x  1 root root     182784 11月 17  2014 mtools
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mtoolstest -> mtools
+-rwxr-xr-x  1 root root      79528 12月  8  2015 mtr
+-rwxr-xr-x  1 root root       6494 4月  15 06:09 mtrace
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 mtvtoppm
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mtype -> mtools
+-rwxr-xr-x  1 root root        784 11月 17  2014 mxtar
+lrwxrwxrwx  1 root root          6 7月   2 03:14 mzip -> mtools
+-rwxr-xr-x  1 root root      27216 4月  14 00:51 namei
+-rwxr-xr-x  1 root root    1426400 3月  19 03:57 nautilus
+-rwxr-xr-x  1 root root      31632 3月  19 03:57 nautilus-autorun-software
+-rwxr-xr-x  1 root root      44744 3月  19 03:57 nautilus-connect-server
+-rwxr-xr-x  1 root root      14880 11月 18  2014 nautilus-sendto
+lrwxrwxrwx  1 root root         22 7月   2 03:14 nawk -> /etc/alternatives/nawk
+-rwxr-xr-x  1 root root      29840 3月   1 19:43 ncal
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 neotoppm
+-rwxr-xr-x  1 root root        908 1月  29 13:14 neqn
+-rwxr-xr-x  1 root root      89904 5月   6  2015 netkit-ftp
+-rwsr-xr-x  1 root root      39904 3月  29 17:25 newgrp
+-rwxr-xr-x  1 root root      35328 2月  10 20:13 ngettext
+-rwxr-xr-x  1 root root      35536 2月  18 21:37 nice
+-rwxr-xr-x  1 root root      39760 2月  18 21:37 nl
+lrwxrwxrwx  1 root root         19 7月   2 03:14 nm -> x86_64-linux-gnu-nm
+-rwxr-xr-x  1 root root     283560 4月   9 07:22 nm-applet
+-rwxr-xr-x  1 root root     617688 4月  16 04:51 nmcli
+-rwxr-xr-x  1 root root     389448 4月   9 07:22 nm-connection-editor
+-rwxr-xr-x  1 root root      14792 4月  16 04:51 nm-online
+-rwxr-xr-x  1 root root     252920 4月  16 04:51 nmtui
+lrwxrwxrwx  1 root root          5 7月   2 03:14 nmtui-connect -> nmtui
+lrwxrwxrwx  1 root root          5 7月   2 03:14 nmtui-edit -> nmtui
+lrwxrwxrwx  1 root root          5 7月   2 03:14 nmtui-hostname -> nmtui
+-rwxr-xr-x  1 root root      31440 2月  18 21:37 nohup
+-rwxr-xr-x  1 root root      14720 2月  16  2015 notify-send
+-rwxr-xr-x  1 root root      31440 2月  18 21:37 nproc
+-rwxr-xr-x  1 root root       3323 1月  29 13:14 nroff
+-rwxr-xr-x  1 root root      27520 4月  14 00:51 nsenter
+-rwxr-xr-x  1 root root      92368 4月  14 16:10 nslookup
+-rwxr-xr-x  1 root root      23008 4月   5 20:16 nstat
+-rwxr-xr-x  1 root root      63512 4月  14 16:10 nsupdate
+-rwxr-xr-x  1 root root      43128 2月  18 06:45 ntfsdecrypt
+-rwxr-xr-x  1 root root      60272 2月  18 21:37 numfmt
+-rwxr-xr-x  1 root root        270 4月  12 18:18 nvidia-detector
+-rwxr-xr-x  1 root root      18840 4月   7 19:48 oakdecode
+-rwxr-xr-x  1 root root      92424 3月   1 23:33 obexctl
+lrwxrwxrwx  1 root root         24 7月   2 03:14 objcopy -> x86_64-linux-gnu-objcopy
+lrwxrwxrwx  1 root root         24 7月   2 03:14 objdump -> x86_64-linux-gnu-objdump
+-rwxr-xr-x  1 root root      20408 2月  10 21:42 oclock
+-rwxr-xr-x  1 root root      68432 2月  18 21:37 od
+lrwxrwxrwx  1 root root         17 7月   2 03:14 on_ac_power -> /sbin/on_ac_power
+-rwxr-xr-x  1 root root       1275 4月  18 23:46 onboard
+-rwxr-xr-x  1 root root        846 4月  18 23:46 onboard-settings
+-rwxr-xr-x  1 root root        162 2月   1 20:56 online-accounts-preferences
+-rwxr-xr-x  1 root root     559072 5月   3 01:03 openssl
+-rwxr-xr-x  1 root root      14728 4月   7 19:48 opldecode
+-rwxr-xr-x  1 root root       8508 4月   8 08:57 orca
+-rwxr-xr-x  1 root root         70 11月 11  2015 orca-dm-wrapper
+-rwxr-xr-x  1 root root       4596 3月  11 21:43 os-prober
+-rwxr-xr-x  1 root root      31464 12月 28  2015 p11-kit
+-rwxr-xr-x  1 root root      44160 3月  21 18:48 pacat
+-rwxr-xr-x  1 root root      14736 3月  21 18:48 pacmd
+-rwxr-xr-x  1 root root      60640 3月  21 18:48 pactl
+-rwxr-xr-x  1 root root       2259 3月  21 18:46 padsp
+lrwxrwxrwx  1 root root         23 7月   2 03:14 pager -> /etc/alternatives/pager
+-rwxr-xr-x  1 root root       2108 4月  17 04:01 painter
+-rwxr-xr-x  1 root root      18696 1月  31 07:14 palmtopnm
+-rwxr-xr-x  1 root root      14512 1月  31 07:14 pamcut
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pamdeinterlace
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 pamdice
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pamfile
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 pamoil
+lrwxrwxrwx  1 root root          5 7月   2 03:14 pamon -> pacat
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 pamstack
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 pamstretch
+-rwxr-xr-x  1 root root       1343 1月  31 07:13 pamstretch-gen
+-rwxr-xr-x  1 root root      10608 11月  4  2015 paperconf
+lrwxrwxrwx  1 root root          5 7月   2 03:14 paplay -> pacat
+lrwxrwxrwx  1 root root          5 7月   2 03:14 parec -> pacat
+lrwxrwxrwx  1 root root          5 7月   2 03:14 parecord -> pacat
+-rwxr-xr-x  1 root root       8693 10月 24  2015 parsechangelog
+-rwxr-xr-x  1 root root      77448 4月  14 00:51 partx
+-rwsr-xr-x  1 root root      54256 3月  29 17:25 passwd
+-rwxr-xr-x  1 root root      31440 2月  18 21:37 paste
+-rwxr-xr-x  1 root root      14848 3月  21 18:48 pasuspender
+-rwxr-xr-x  1 root root     154944 4月   3  2015 patch
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 pathchk
+-rwxr-xr-x  1 root root      14704 3月  21 18:48 pax11publish
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 pbmclean
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 pbmlife
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 pbmmake
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 pbmmask
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pbmpage
+-rwxr-xr-x  1 root root      10520 1月  31 07:14 pbmpscale
+-rwxr-xr-x  1 root root      10440 1月  31 07:14 pbmreduce
+-rwxr-xr-x  1 root root      10440 1月  31 07:14 pbmtext
+-rwxr-xr-x  1 root root      14600 1月  31 07:14 pbmtextps
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pbmto10x
+-rwxr-xr-x  1 root root      10648 1月  31 07:14 pbmtoascii
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pbmtoatk
+-rwxr-xr-x  1 root root      10352 1月  31 07:14 pbmtobbnbg
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pbmtocmuwm
+-rwxr-xr-x  1 root root      10344 1月  31 07:14 pbmtoepsi
+-rwxr-xr-x  1 root root       6248 1月  31 07:14 pbmtoepson
+-rwxr-xr-x  1 root root      13560 1月  31 07:14 pbmtog3
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 pbmtogem
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pbmtogo
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 pbmtoicon
+-rwxr-xr-x  1 root root      10440 1月  31 07:14 pbmtolj
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pbmtomacp
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 pbmtomda
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 pbmtomgr
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 pbmtonokia
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 pbmtopgm
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 pbmtopi3
+-rwxr-xr-x  1 root root       6240 1月  31 07:14 pbmtoplot
+-rwxr-xr-x  1 root root      35064 1月  31 07:14 pbmtoppa
+-rwxr-xr-x  1 root root      12120 1月  31 07:14 pbmtopsg3
+-rwxr-xr-x  1 root root       6256 1月  31 07:14 pbmtoptx
+-rwxr-xr-x  1 root root      10344 1月  31 07:14 pbmtowbmp
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pbmtox10bm
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pbmtoxbm
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 pbmtoybm
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pbmtozinc
+-rwxr-xr-x  1 root root      18544 1月  31 07:14 pbmupc
+-rwxr-xr-x  1 root root      14936 2月   5 04:59 pcimodules
+-rwxr-xr-x  1 root root      18624 1月  31 07:14 pcxtoppm
+lrwxrwxrwx  1 root root          6 7月   2 03:14 pdb -> pdb2.7
+lrwxrwxrwx  1 root root         23 7月   2 03:14 pdb2.7 -> ../lib/python2.7/pdb.py
+lrwxrwxrwx  1 root root          6 7月   2 03:14 pdb3 -> pdb3.5
+lrwxrwxrwx  1 root root         23 7月   2 03:14 pdb3.5 -> ../lib/python3.5/pdb.py
+-rwxr-xr-x  1 root root        698 2月  29 18:49 pdf2dsc
+-rwxr-xr-x  1 root root        909 2月  29 18:49 pdf2ps
+-rwxr-xr-x  1 root root      14992 2月  27 00:48 pdfdetach
+-rwxr-xr-x  1 root root      14528 2月  27 00:48 pdffonts
+-rwxr-xr-x  1 root root      43200 2月  27 00:48 pdfimages
+-rwxr-xr-x  1 root root      26816 2月  27 00:48 pdfinfo
+-rwxr-xr-x  1 root root      14408 2月  27 00:48 pdfseparate
+-rwxr-xr-x  1 root root     116840 2月  27 00:48 pdftocairo
+-rwxr-xr-x  1 root root      84072 2月  27 00:48 pdftohtml
+-rwxr-xr-x  1 root root      18536 2月  27 00:48 pdftoppm
+-rwxr-xr-x  1 root root      18632 2月  27 00:48 pdftops
+-rwxr-xr-x  1 root root      30928 2月  27 00:48 pdftotext
+-rwxr-xr-x  1 root root      26696 2月  27 00:48 pdfunite
+-rwxr-xr-x  1 root root      10552 2月   7 21:37 peekfd
+-rwxr-xr-x  1 root root    1907192 3月  13 19:54 perl
+-rwxr-xr-x  1 root root    1907192 3月  13 19:54 perl5.22.1
+-rwxr-xr-x  1 root root      10496 3月  13 19:54 perl5.22-x86_64-linux-gnu
+-rwxr-xr-x  1 root root      45355 3月  13 19:54 perlbug
+-rwxr-xr-x  1 root root        125 3月  13 19:54 perldoc
+-rwxr-xr-x  1 root root      10823 3月  13 19:54 perlivp
+-rwxr-xr-x  1 root root      45355 3月  13 19:54 perlthanks
+-rwxr-xr-x  1 root root        498 2月  29 18:49 pf2afm
+-rwxr-xr-x  1 root root        516 2月  29 18:49 pfbtopfa
+lrwxrwxrwx  1 root root         22 7月   2 03:14 pftp -> /etc/alternatives/pftp
+-rwxr-xr-x  1 root root      39840 4月  14 00:51 pg
+-rwxr-xr-x  1 root root       6256 1月  31 07:14 pgmbentley
+-rwxr-xr-x  1 root root      14584 1月  31 07:14 pgmcrater
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 pgmedge
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 pgmenhance
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pgmhist
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 pgmkernel
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 pgmnoise
+lrwxrwxrwx  1 root root          7 7月   2 03:14 pgmnorm -> pnmnorm
+lrwxrwxrwx  1 root root          6 7月   2 03:14 pgmoil -> pamoil
+-rwxr-xr-x  1 root root      10352 1月  31 07:14 pgmramp
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 pgmslice
+-rwxr-xr-x  1 root root      26816 1月  31 07:14 pgmtexture
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pgmtofs
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pgmtolispm
+-rwxr-xr-x  1 root root      17048 1月  31 07:14 pgmtopbm
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pgmtoppm
+-rwxr-xr-x  1 root root      27280 1月  13  2016 pgrep
+-rwxr-xr-x  1 root root       6264 1月  31 07:14 pi1toppm
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pi3topbm
+-rwxr-xr-x  1 root root     200736 1月  29 13:15 pic
+lrwxrwxrwx  1 root root         22 7月   2 03:14 pico -> /etc/alternatives/pico
+-rwxr-xr-x  1 root root       8319 3月  13 19:54 piconv
+-rwxr-xr-x  1 root root       2359 4月  17 04:01 pilconvert
+-rwxr-xr-x  1 root root      15575 4月  17 04:01 pildriver
+-rwxr-xr-x  1 root root       2667 4月  17 04:01 pilfile
+-rwxr-xr-x  1 root root       1028 4月  17 04:01 pilfont
+-rwxr-xr-x  1 root root       2538 4月  17 04:01 pilprint
+lrwxrwxrwx  1 root root         26 7月   2 03:14 pinentry -> /etc/alternatives/pinentry
+-rwxr-xr-x  1 root root      61048 2月   7 01:16 pinentry-gnome3
+lrwxrwxrwx  1 root root         30 7月   2 03:14 pinentry-x11 -> /etc/alternatives/pinentry-x11
+-rwxr-xr-x  1 root root      35696 2月  18 21:37 pinky
+lrwxrwxrwx  1 root root          9 7月   2 03:14 pixeltool -> qtchooser
+-rwxr-xr-x  1 root root      10464 1月  31 07:14 pjtoppm
+-rwxr-xr-x  1 root root      10640 1月  18 07:13 pkaction
+-rwxr-xr-x  1 root root      19104 1月  18 07:13 pkcheck
+-rwsr-xr-x  1 root root      23376 1月  18 07:13 pkexec
+-rwxr-xr-x  1 root root      47944 4月   6 22:03 pkg-config
+lrwxrwxrwx  1 root root          5 7月   2 03:14 pkill -> pgrep
+-rwxr-xr-x  1 root root      14784 1月  18 07:13 pkttyagent
+-rwxr-xr-x  1 root root       4531 3月  13 19:54 pl2pm
+-rwxr-xr-x  1 root root        324 1月  12  2016 plainbox-qml-shell
+-rwxr-xr-x  1 root root        342 1月  12  2016 plainbox-trusted-launcher-1
+-rwxr-xr-x  1 root root       2174 4月  17 04:01 player
+-rwxr-xr-x  1 root root      14944 4月  15 06:19 pldd
+-rwxr-xr-x  1 root root        146 1月  28 00:19 plog
+-rwxr-xr-x  1 root root      31344 1月  13  2016 pmap
+-rwxr-xr-x  1 root root        981 2月  16 01:16 pm-is-supported
+-rwxr-xr-x  1 root root      23016 1月  31 07:14 pngtopnm
+-rwxr-xr-x  1 root root     628760 8月   7  2014 pnm2ppa
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pnmalias
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pnmarith
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 pnmcat
+-rwxr-xr-x  1 root root      14568 1月  31 07:14 pnmcolormap
+-rwxr-xr-x  1 root root      10440 1月  31 07:14 pnmcomp
+-rwxr-xr-x  1 root root      39088 1月  31 07:14 pnmconvol
+-rwxr-xr-x  1 root root      10488 1月  31 07:14 pnmcrop
+-rwxr-xr-x  1 root root      14512 1月  31 07:14 pnmcut
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pnmdepth
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 pnmenlarge
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 pnmfile
+-rwxr-xr-x  1 root root      10440 1月  31 07:14 pnmflip
+-rwxr-xr-x  1 root root      10424 1月  31 07:14 pnmgamma
+-rwxr-xr-x  1 root root      10432 1月  31 07:14 pnmhisteq
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 pnmhistmap
+-rwxr-xr-x  1 root root       4601 1月  31 07:13 pnmindex
+lrwxrwxrwx  1 root root         10 7月   2 03:14 pnminterp -> pamstretch
+lrwxrwxrwx  1 root root         14 7月   2 03:14 pnminterp-gen -> pamstretch-gen
+-rwxr-xr-x  1 root root       6272 1月  31 07:14 pnminvert
+-rwxr-xr-x  1 root root       1768 1月  31 07:13 pnmmargin
+-rwxr-xr-x  1 root root      14552 1月  31 07:14 pnmmontage
+-rwxr-xr-x  1 root root      18672 1月  31 07:14 pnmnlfilt
+lrwxrwxrwx  1 root root         13 7月   2 03:14 pnmnoraw -> pnmtoplainpnm
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 pnmnorm
+-rwxr-xr-x  1 root root      10432 1月  31 07:14 pnmpad
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 pnmpaste
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 pnmpsnr
+-rwxr-xr-x  1 root root       3203 1月  31 07:13 pnmquant
+-rwxr-xr-x  1 root root      14624 1月  31 07:14 pnmremap
+-rwxr-xr-x  1 root root      14552 1月  31 07:14 pnmrotate
+-rwxr-xr-x  1 root root      18608 1月  31 07:14 pnmscale
+-rwxr-xr-x  1 root root      14512 1月  31 07:14 pnmscalefixed
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 pnmshear
+-rwxr-xr-x  1 root root      10424 1月  31 07:14 pnmsmooth
+-rwxr-xr-x  1 root root      10464 1月  31 07:14 pnmsplit
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 pnmtile
+-rwxr-xr-x  1 root root      14560 1月  31 07:14 pnmtoddif
+-rwxr-xr-x  1 root root     201208 1月  31 07:14 pnmtofiasco
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 pnmtofits
+-rwxr-xr-x  1 root root      18808 1月  31 07:14 pnmtojpeg
+-rwxr-xr-x  1 root root      18672 1月  31 07:14 pnmtopalm
+-rwxr-xr-x  1 root root       6264 1月  31 07:14 pnmtoplainpnm
+-rwxr-xr-x  1 root root      31408 1月  31 07:14 pnmtopng
+-rwxr-xr-x  1 root root      18664 1月  31 07:14 pnmtops
+-rwxr-xr-x  1 root root      10432 1月  31 07:14 pnmtorast
+-rwxr-xr-x  1 root root      43656 1月  31 07:14 pnmtorle
+-rwxr-xr-x  1 root root      14528 1月  31 07:14 pnmtosgi
+-rwxr-xr-x  1 root root      10352 1月  31 07:14 pnmtosir
+-rwxr-xr-x  1 root root      18728 1月  31 07:14 pnmtotiff
+-rwxr-xr-x  1 root root      18680 1月  31 07:14 pnmtotiffcmyk
+-rwxr-xr-x  1 root root      10424 1月  31 07:14 pnmtoxwd
+-rwxr-xr-x  1 root root       4096 3月  13 19:54 pod2html
+-rwxr-xr-x  1 root root      13843 3月  13 19:54 pod2man
+-rwxr-xr-x  1 root root      11003 3月  13 19:54 pod2text
+-rwxr-xr-x  1 root root       3670 3月  13 19:54 pod2usage
+-rwxr-xr-x  1 root root       3699 3月  13 19:54 podchecker
+-rwxr-xr-x  1 root root       2527 3月  13 19:54 podselect
+-rwxr-xr-x  1 root root       2837 1月  28 00:19 poff
+-rwxr-xr-x  1 root root       1362 1月  28 00:19 pon
+lrwxrwxrwx  1 root root         11 7月   2 03:14 POST -> lwp-request
+-rwxr-xr-x  1 root root      18520 3月  26 01:42 ppdc
+-rwxr-xr-x  1 root root      10328 3月  26 01:42 ppdhtml
+-rwxr-xr-x  1 root root      10328 3月  26 01:42 ppdi
+-rwxr-xr-x  1 root root      14408 3月  26 01:42 ppdmerge
+-rwxr-xr-x  1 root root      10328 3月  26 01:42 ppdpo
+-rwxr-xr-x  1 root root        404 2月  29 18:49 pphs
+-rwxr-xr-x  1 root root      14472 1月  31 07:14 ppm3d
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 ppmbrighten
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 ppmchange
+-rwxr-xr-x  1 root root      22800 1月  31 07:14 ppmcie
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 ppmcolormask
+-rwxr-xr-x  1 root root       6256 1月  31 07:14 ppmcolors
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 ppmdim
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 ppmdist
+-rwxr-xr-x  1 root root      10432 1月  31 07:14 ppmdither
+-rwxr-xr-x  1 root root      11661 1月  31 07:13 ppmfade
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 ppmflash
+-rwxr-xr-x  1 root root      22768 1月  31 07:14 ppmforge
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 ppmhist
+-rwxr-xr-x  1 root root      10432 1月  31 07:14 ppmlabel
+-rwxr-xr-x  1 root root       6256 1月  31 07:14 ppmmake
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 ppmmix
+lrwxrwxrwx  1 root root          7 7月   2 03:14 ppmnorm -> pnmnorm
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 ppmntsc
+-rwxr-xr-x  1 root root      22784 1月  31 07:14 ppmpat
+-rwxr-xr-x  1 root root      18680 1月  31 07:14 ppmquant
+-rwxr-xr-x  1 root root       2072 1月  31 07:13 ppmquantall
+-rwxr-xr-x  1 root root      14512 1月  31 07:14 ppmqvga
+-rwxr-xr-x  1 root root       1706 1月  31 07:13 ppmrainbow
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 ppmrelief
+-rwxr-xr-x  1 root root       6832 1月  31 07:13 ppmshadow
+-rwxr-xr-x  1 root root      10416 1月  31 07:14 ppmshift
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 ppmspread
+-rwxr-xr-x  1 root root      15408 1月  31 07:14 ppmtoacad
+-rwxr-xr-x  1 root root      14600 1月  31 07:14 ppmtobmp
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 ppmtoeyuv
+-rwxr-xr-x  1 root root      18672 1月  31 07:14 ppmtogif
+-rwxr-xr-x  1 root root      10440 1月  31 07:14 ppmtoicr
+-rwxr-xr-x  1 root root      39368 1月  31 07:14 ppmtoilbm
+lrwxrwxrwx  1 root root          9 7月   2 03:14 ppmtojpeg -> pnmtojpeg
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 ppmtoleaf
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 ppmtolj
+-rwxr-xr-x  1 root root         81 1月  31 07:13 ppmtomap
+-rwxr-xr-x  1 root root      18640 1月  31 07:14 ppmtomitsu
+-rwxr-xr-x  1 root root     547456 1月  31 07:14 ppmtompeg
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 ppmtoneo
+-rwxr-xr-x  1 root root      14536 1月  31 07:14 ppmtopcx
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 ppmtopgm
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 ppmtopi1
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 ppmtopict
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 ppmtopj
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 ppmtopuzz
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 ppmtorgb3
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 ppmtosixel
+-rwxr-xr-x  1 root root      10432 1月  31 07:14 ppmtotga
+-rwxr-xr-x  1 root root      10472 1月  31 07:14 ppmtouil
+-rwxr-xr-x  1 root root      14616 1月  31 07:14 ppmtowinicon
+-rwxr-xr-x  1 root root      14640 1月  31 07:14 ppmtoxpm
+-rwxr-xr-x  1 root root      10360 1月  31 07:14 ppmtoyuv
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 ppmtoyuvsplit
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 ppmtv
+-rwxr-xr-x  1 root root      76752 2月  18 21:37 pr
+-rwxr-xr-x  1 root root       5656 2月   7 18:05 precat
+-rwxr-xr-x  1 root root      43208 1月  29 13:15 preconv
+-rwxr-xr-x  1 root root       2987 3月  13 19:54 prename
+-rwxr-xr-x  1 root root      31520 2月   7 18:18 presage_demo
+-rwxr-xr-x  1 root root      18960 2月   7 18:18 presage_demo_text
+-rwxr-xr-x  1 root root      27328 2月   7 18:18 presage_simulator
+-rwxr-xr-x  1 root root       5656 2月   7 18:05 preunzip
+-rwxr-xr-x  1 root root       5656 2月   7 18:05 prezip
+-rwxr-xr-x  1 root root      10488 2月   7 18:05 prezip-bin
+lrwxrwxrwx  1 root root         11 7月   2 03:14 print -> run-mailcap
+-rwxr-xr-x  1 root root        395 2月  29 18:49 printafm
+-rwxr-xr-x  1 root root      31376 2月  18 21:37 printenv
+-rwxr-xr-x  1 root root      18704 3月   1 19:43 printerbanner
+-rwxr-xr-x  1 root root       5640 4月   7 19:48 printer-profile
+-rwxr-xr-x  1 root root      47856 2月  18 21:37 printf
+-rwxr-xr-x  1 root root      32056 4月  14 00:51 prlimit
+-rwxr-xr-x  1 root root      13550 3月  13 19:54 prove
+-rwxr-xr-x  1 root root      14696 2月   7 21:37 prtstat
+-rwxr-xr-x  1 root root        740 2月  29 18:49 ps2ascii
+-rwxr-xr-x  1 root root       2794 2月  29 18:49 ps2epsi
+-rwxr-xr-x  1 root root        272 2月  29 18:49 ps2pdf
+-rwxr-xr-x  1 root root        215 2月  29 18:49 ps2pdf12
+-rwxr-xr-x  1 root root        215 2月  29 18:49 ps2pdf13
+-rwxr-xr-x  1 root root        215 2月  29 18:49 ps2pdf14
+-rwxr-xr-x  1 root root       1097 2月  29 18:49 ps2pdfwr
+-rwxr-xr-x  1 root root        647 2月  29 18:49 ps2ps
+-rwxr-xr-x  1 root root        669 2月  29 18:49 ps2ps2
+lrwxrwxrwx  1 root root          8 7月   2 03:14 ps2txt -> ps2ascii
+lrwxrwxrwx  1 root root          9 7月   2 03:14 psfaddtable -> psfxtable
+lrwxrwxrwx  1 root root          9 7月   2 03:14 psfgettable -> psfxtable
+lrwxrwxrwx  1 root root          9 7月   2 03:14 psfstriptable -> psfxtable
+-rwxr-xr-x  1 root root      18808 9月  17  2015 psfxtable
+-rwxr-xr-x  1 root root      18888 11月 18  2014 psicc
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 psidtopgm
+-rwxr-xr-x  1 root root      18768 1月  31 07:14 pstopnm
+-rwxr-xr-x  1 root root      27464 2月   7 21:37 pstree
+lrwxrwxrwx  1 root root          6 7月   2 03:14 pstree.x11 -> pstree
+-rwxr-xr-x  1 root root      36607 3月  13 19:54 pstruct
+-rwxr-xr-x  1 root root       3524 3月  13 19:54 ptar
+-rwxr-xr-x  1 root root       2590 3月  13 19:54 ptardiff
+-rwxr-xr-x  1 root root       4354 3月  13 19:54 ptargrep
+-rwxr-xr-x  1 root root      68560 2月  18 21:37 ptx
+-rwxr-xr-x  1 root root      88224 3月  21 18:48 pulseaudio
+-rwxr-xr-x  1 root root      10608 1月  13  2016 pwdx
+-rwxr-xr-x  1 root root       7806 3月  23 19:00 py3clean
+-rwxr-xr-x  1 root root      12113 3月  23 19:00 py3compile
+lrwxrwxrwx  1 root root         31 7月   2 03:14 py3versions -> ../share/python3/py3versions.py
+lrwxrwxrwx  1 root root         26 7月   2 03:14 pybuild -> ../share/dh-python/pybuild
+-rwxr-xr-x  1 root root       4123 12月 10  2015 pyclean
+-rwxr-xr-x  1 root root      11894 12月 10  2015 pycompile
+lrwxrwxrwx  1 root root          8 7月   2 03:14 pydoc -> pydoc2.7
+-rwxr-xr-x  1 root root         79 4月  18 01:15 pydoc2.7
+lrwxrwxrwx  1 root root          8 7月   2 03:14 pydoc3 -> pydoc3.5
+-rwxr-xr-x  1 root root         79 3月  31 19:49 pydoc3.5
+lrwxrwxrwx  1 root root         12 7月   2 03:14 pygettext -> pygettext2.7
+-rwxr-xr-x  1 root root      22097 4月  18 01:15 pygettext2.7
+lrwxrwxrwx  1 root root         12 7月   2 03:14 pygettext3 -> pygettext3.5
+-rwxr-xr-x  1 root root      22256 3月  31 19:49 pygettext3.5
+lrwxrwxrwx  1 root root          9 7月   2 03:14 python -> python2.7
+lrwxrwxrwx  1 root root          9 7月   2 03:14 python2 -> python2.7
+-rwxr-xr-x  1 root root    3533656 4月  18 01:18 python2.7
+lrwxrwxrwx  1 root root          9 7月   2 03:14 python3 -> python3.5
+-rwxr-xr-x  1 root root    4439120 3月  31 19:51 python3.5
+-rwxr-xr-x  1 root root    4439120 3月  31 19:51 python3.5m
+lrwxrwxrwx  1 root root         10 7月   2 03:14 python3m -> python3.5m
+lrwxrwxrwx  1 root root         29 7月   2 03:14 pyversions -> ../share/python/pyversions.py
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qcollectiongenerator -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qdbus -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qdbuscpp2xml -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qdbusviewer -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qdbusxml2cpp -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qdoc -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qdoc3 -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qglinfo -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qhelpconverter -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qhelpgenerator -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qlalr -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmake -> qtchooser
+lrwxrwxrwx  1 root root         37 4月   5 22:49 qmake-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/qmake
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qml -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qml1plugindump -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlbundle -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmleasing -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlimportscanner -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmllint -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlmin -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlplugindump -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlprofiler -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlscene -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmltestrunner -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qmlviewer -> qtchooser
+-rwxr-xr-x  1 root root      84152 11月 17  2015 qpdf
+-rwxr-xr-x  1 root root      18840 4月   7 19:48 qpdldecode
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 qrttoppm
+-rwxr-xr-x  1 root root      39640 12月  9  2015 qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qtconfig -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qtdiag -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 qtpaths -> qtchooser
+-rwxr-xr-x  1 root root       2453 4月  12 18:18 quirks-handler
+lrwxrwxrwx  1 root root         23 7月   2 03:14 ranlib -> x86_64-linux-gnu-ranlib
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 rasttopnm
+-rwxr-xr-x  1 root root      10424 1月  31 07:14 rawtopgm
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 rawtoppm
+lrwxrwxrwx  1 root root          9 7月   2 03:14 rcc -> qtchooser
+lrwxrwxrwx  1 root root         21 7月   2 03:14 rcp -> /etc/alternatives/rcp
+-rwxr-xr-x  1 root root     140712 3月   1 23:33 rctest
+lrwxrwxrwx  1 root root         24 7月   2 03:14 readelf -> x86_64-linux-gnu-readelf
+-rwxr-xr-x  1 root root      60240 2月  18 21:37 realpath
+-rwxr-xr-x  1 root root      14624 2月  10 20:13 recode-sr-latin
+-rwxr-xr-x  1 root root       3445 5月   6  2015 recountdiff
+-rwxr-xr-x  1 root root      35552 5月   6  2015 rediff
+-rwxr-xr-x  1 root root     322024 3月  29 10:39 remmina
+lrwxrwxrwx  1 root root         24 7月   2 03:14 rename -> /etc/alternatives/rename
+-rwxr-xr-x  1 root root      14752 4月  14 00:51 rename.ul
+-rwxr-xr-x  1 root root      49208 2月  10 21:42 rendercheck
+-rwxr-xr-x  1 root root      10624 4月  14 00:51 renice
+lrwxrwxrwx  1 root root          4 7月   2 03:14 reset -> tset
+-rwxr-xr-x  1 root root      18848 2月  18 02:16 resize
+-rwxr-xr-x  1 root root      18984 9月  17  2015 resizecons
+-rwxr-xr-x  1 root root      35696 4月  14 00:51 resizepart
+-rwxr-xr-x  1 root root      10632 4月  14 00:51 rev
+-rwxr-xr-x  1 root root     102904 3月   1 23:33 rfcomm
+-rwxr-xr-x  1 root root      10368 1月  31 07:14 rgb3toppm
+-rwxr-xr-x  1 root root         30 3月   5 01:02 rgrep
+-rwxr-xr-x  1 root root      10552 4月  14 06:00 rhythmbox
+-rwxr-xr-x  1 root root      37816 4月  14 06:00 rhythmbox-client
+-rwxr-xr-x  1 root root      31336 1月  31 07:14 rletopnm
+lrwxrwxrwx  1 root root         24 7月   2 03:14 rlogin -> /etc/alternatives/rlogin
+-rwxr-xr-x  1 root root        173 11月  4  2015 routef
+-rwxr-xr-x  1 root root       1262 11月  4  2015 routel
+-rwxr-xr-x  1 root root      93120 4月  15 06:19 rpcgen
+lrwxrwxrwx  1 root root         21 7月   2 03:14 rsh -> /etc/alternatives/rsh
+-rwxr-xr-x  1 root root       2610 5月   6  2015 rstart
+-rwxr-xr-x  1 root root       1469 5月   6  2015 rstartd
+-rwxr-xr-x  1 root root     479448 1月  20 04:22 rsync
+lrwxrwxrwx  1 root root          6 7月   2 03:14 rtstat -> lnstat
+-rwxr-xr-x  1 root root      35632 2月  18 21:37 runcon
+-rwxr-xr-x  1 root root      17975 10月 30  2015 run-mailcap
+-rwxr-xr-x  1 root root         57 2月   7 18:05 run-with-aspell
+lrwxrwxrwx  1 root root         23 7月   2 03:14 rview -> /etc/alternatives/rview
+-rwxr-xr-x  1 root root     117728 9月  18  2015 sane-find-scanner
+-rwxr-xr-x  1 root root      10469 1月  27 02:17 savelog
+-rwxr-xr-x  1 root root      47984 12月 18  2015 sbattach
+-rwxr-xr-x  1 root root      10536 1月  31 07:14 sbigtopgm
+-rwxr-xr-x  1 root root      56464 12月 18  2015 sbkeysync
+-rwxr-xr-x  1 root root      48048 12月 18  2015 sbsiglist
+-rwxr-xr-x  1 root root      48080 12月 18  2015 sbsign
+-rwxr-xr-x  1 root root      52336 12月 18  2015 sbvarsign
+-rwxr-xr-x  1 root root      52176 12月 18  2015 sbverify
+-rwxr-xr-x  1 root root      51992 9月  18  2015 scanimage
+-rwxr-xr-x  1 root root      80016 4月  16 13:18 scp
+-rwxr-xr-x  1 root root         90 3月   8 09:15 scp-dbus-service
+-rwxr-xr-x  1 root root      10520 9月  17  2015 screendump
+-rwxr-xr-x  1 root root      23200 4月  14 00:51 script
+-rwxr-xr-x  1 root root      14744 4月  14 00:51 scriptreplay
+-rwxr-xr-x  1 root root      47904 12月 27  2015 sdiff
+-rwxr-xr-x  1 root root     205720 3月   1 23:33 sdptool
+-rwxr-xr-x  1 root root    1102688 10月 28  2015 seahorse
+lrwxrwxrwx  1 root root         11 7月   2 03:14 see -> run-mailcap
+-rwxr-xr-x  1 root root        474 10月 24  2015 select-default-iwrap
+-rwxr-xr-x  1 root root       1215 6月  17  2013 select-editor
+-rwxr-xr-x  1 root root       1436 6月  17  2013 sensible-browser
+-rwxr-xr-x  1 root root       1109 6月  17  2013 sensible-editor
+-rwxr-xr-x  1 root root        288 6月  17  2013 sensible-pager
+-rwxr-xr-x  1 root root      47856 2月  18 21:37 seq
+-rwxr-xr-x  1 root root       1059 3月  16 23:40 session-installer
+-rwxr-xr-x  1 root root      14864 5月   7  2015 session-migration
+-rwxr-xr-x  1 root root      10600 2月  27 17:09 sessreg
+-rwxr-xr-x  1 root root      14720 4月  14 00:51 setarch
+lrwxrwxrwx  1 root root         12 7月   2 03:14 setfacl -> /bin/setfacl
+-rwxr-xr-x  1 root root      10480 9月  17  2015 setkeycodes
+-rwxr-xr-x  1 root root      10504 9月  17  2015 setleds
+-rwxr-xr-x  1 root root      10464 9月  17  2015 setlogcons
+-rwxr-xr-x  1 root root      10552 9月  17  2015 setmetamode
+-rwxr-xr-x  1 root root      23008 2月   5 04:59 setpci
+-rwxr-xr-x  1 root root      10624 4月  14 00:51 setsid
+-rwxr-xr-x  1 root root      35440 4月  14 00:51 setterm
+-rwxr-xr-x  1 root root      23344 5月   6  2015 setxkbmap
+-rwxr-xr-x  1 root root     133488 4月  16 13:18 sftp
+lrwxrwxrwx  1 root root          6 7月   2 03:14 sg -> newgrp
+-rwxr-xr-x  1 root root      14568 1月  31 07:14 sgitopnm
+-rwxr-xr-x  1 root root      43792 2月  18 21:37 sha1sum
+-rwxr-xr-x  1 root root      51984 2月  18 21:37 sha224sum
+-rwxr-xr-x  1 root root      51984 2月  18 21:37 sha256sum
+-rwxr-xr-x  1 root root      56080 2月  18 21:37 sha384sum
+-rwxr-xr-x  1 root root      56080 2月  18 21:37 sha512sum
+-rwxr-xr-x  1 root root       9332 3月  13 19:54 shasum
+-rwxr-xr-x  1 root root    4291448 2月  16 21:57 shotwell
+-rwxr-xr-x  1 root root      18784 9月  17  2015 showconsolefont
+-rwxr-xr-x  1 root root      14624 9月  17  2015 showkey
+-rwxr-xr-x  1 root root       6400 2月  27 17:09 showrgb
+-rwxr-xr-x  1 root root      56240 2月  18 21:37 shred
+-rwxr-xr-x  1 root root      56144 2月  18 21:37 shuf
+-rwxr-xr-x  1 root root     509456 11月  6  2015 signond
+-rwxr-xr-x  1 root root      73064 11月  6  2015 signonpluginprocess
+-rwxr-xr-x  1 root root     276184 11月 26  2015 signon-ui
+-rwxr-xr-x  1 root root     383192 3月  21 05:13 simple-scan
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 sirtopnm
+lrwxrwxrwx  1 root root         21 7月   2 03:14 size -> x86_64-linux-gnu-size
+-rwxr-xr-x  1 root root      23152 1月  13  2016 skill
+-rwxr-xr-x  1 root root      18912 1月  13  2016 slabtop
+-rwxr-xr-x  1 root root      14640 1月  31 07:14 sldtoppm
+lrwxrwxrwx  1 root root          3 7月   2 03:14 slogin -> ssh
+-rwxr-xr-x  1 root root      18856 4月   7 19:48 slxdecode
+-rwxr-xr-x  1 root root      23088 5月   6  2015 smproxy
+-rwxr-xr-x  1 root root    9297560 4月  19 22:31 snap
+lrwxrwxrwx  1 root root          5 7月   2 03:14 snice -> skill
+-rwxr-xr-x  1 root root      30920 1月  29 13:15 soelim
+lrwxrwxrwx  1 root root         34 6月  28 16:08 soffice -> ../lib/libreoffice/program/soffice
+-rwxr-xr-x  1 root root       4259 3月  22 15:57 software-properties-gtk
+-rwxr-xr-x  1 root root     110040 2月  18 21:37 sort
+-rwxr-xr-x  1 root root       4306 4月  15 06:10 sotruss
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 spctoppm
+-rwxr-xr-x  1 root root        220 2月  19 05:51 spd-conf
+-rwxr-xr-x  1 root root      19736 2月  19 05:51 spd-say
+-rwxr-xr-x  1 root root      31536 4月  15 08:04 speaker-test
+-rwxr-xr-x  1 root root     134552 2月  19 05:51 speech-dispatcher
+lrwxrwxrwx  1 root root         32 7月   2 03:14 spellintian -> ../share/lintian/frontend/dplint
+-rwxr-xr-x  1 root root      18768 3月  13 19:54 splain
+-rwxr-xr-x  1 root root      69024 2月  18 21:37 split
+-rwxr-xr-x  1 root root       3461 5月   6  2015 splitdiff
+-rwxr-xr-x  1 root root      10456 9月  17  2015 splitfont
+-rwxr-xr-x  1 root root      23256 4月  15 06:19 sprof
+-rwxr-xr-x  1 root root      10352 1月  31 07:14 sputoppm
+-rwxr-xr-x  1 root root     899064 2月  23 00:43 sqldiff
+-rwxr-xr-x  1 root root      32584 12月 18  2014 sqlite
+-rwxr-xr-x  1 root root     944000 2月  23 00:43 sqlite3
+-rwxr-xr-x  1 root root     707248 4月  16 13:18 ssh
+-rwxr-xr-x  1 root root     338136 4月  16 13:18 ssh-add
+-rwxr-sr-x  1 root ssh      358624 4月  16 13:18 ssh-agent
+-rwxr-xr-x  1 root root       1456 4月  13 15:48 ssh-argv0
+-rwxr-xr-x  1 root root      10360 3月  10 02:04 ssh-copy-id
+-rwxr-xr-x  1 root root     399600 4月  16 13:18 ssh-keygen
+-rwxr-xr-x  1 root root     415984 4月  16 13:18 ssh-keyscan
+-rwxr-xr-x  1 root root      10424 1月  31 07:14 st4topgm
+-rwxr-xr-x  1 root root       1293 3月  21 18:46 start-pulseaudio-x11
+-rwxr-xr-x  1 root root       5517 10月 24  2015 startx
+-rwxr-xr-x  1 root root      80944 2月  18 21:37 stat
+-rwxr-xr-x  1 root root      64336 2月  18 21:37 stdbuf
+-rwxr-xr-x  1 root root     866480 1月  13  2016 strace
+lrwxrwxrwx  1 root root         24 7月   2 03:14 stream -> /etc/alternatives/stream
+lrwxrwxrwx  1 root root         56 6月   2 03:14 stream-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/stream
+lrwxrwxrwx  1 root root         24 7月   2 03:14 strings -> x86_64-linux-gnu-strings
+lrwxrwxrwx  1 root root         22 7月   2 03:14 strip -> x86_64-linux-gnu-strip
+-rwsr-xr-x  1 root root     136808 3月  31 03:57 sudo
+lrwxrwxrwx  1 root root          4 7月   2 03:14 sudoedit -> sudo
+-rwxr-xr-x  1 root root      47680 3月  31 03:57 sudoreplay
+-rwxr-xr-x  1 root root      39672 2月  18 21:37 sum
+-rwxr-xr-x  1 root root     100968 4月   8 18:14 symcryptrun
+-rwxr-xr-x  1 root root      18312 3月   3 21:41 synclient
+-rwxr-xr-x  1 root root      18992 3月   3 21:41 syndaemon
+-rwxr-xr-x  1 root root     200584 2月  24 21:32 syslinux
+-rwxr-xr-x  1 root root      29888 10月  6  2015 syslinux-legacy
+-rwxr-xr-x  1 root root         95 3月   8 09:15 system-config-printer
+-rwxr-xr-x  1 root root         80 3月   8 09:15 system-config-printer-applet
+-rwxr-xr-x  1 root root    1487008 4月  12 18:34 systemd-analyze
+-rwxr-xr-x  1 root root      35256 4月  12 18:34 systemd-cat
+-rwxr-xr-x  1 root root     294112 4月  12 18:34 systemd-cgls
+-rwxr-xr-x  1 root root     310568 4月  12 18:34 systemd-cgtop
+-rwxr-xr-x  1 root root      64088 4月  12 18:34 systemd-delta
+-rwxr-xr-x  1 root root      35248 4月  12 18:34 systemd-detect-virt
+-rwxr-xr-x  1 root root      43440 4月  12 18:34 systemd-path
+-rwxr-xr-x  1 root root     335064 4月  12 18:34 systemd-resolve
+-rwxr-xr-x  1 root root     376344 4月  12 18:34 systemd-run
+-rwxr-xr-x  1 root root     351440 4月  12 18:34 systemd-stdio-bridge
+-rwxr-xr-x  1 root root      39072 1月   4  2016 t1ascii
+-rwxr-xr-x  1 root root      44224 1月   4  2016 t1asm
+-rwxr-xr-x  1 root root      39040 1月   4  2016 t1binary
+-rwxr-xr-x  1 root root      43096 1月   4  2016 t1disasm
+-rwxr-xr-x  1 root root      47328 1月   4  2016 t1mac
+-rwxr-xr-x  1 root root      43304 1月   4  2016 t1unmac
+-rwxr-xr-x  1 root root      14576 2月  19 16:22 tabs
+-rwxr-xr-x  1 root root      35568 2月  18 21:37 tac
+-rwxr-xr-x  1 root root      64432 2月  18 21:37 tail
+-rwxr-xr-x  1 root root      31416 4月  14 00:51 taskset
+-rwxr-xr-x  1 root root     121032 1月  29 13:15 tbl
+lrwxrwxrwx  1 root root          8 7月   2 03:14 tclsh -> tclsh8.6
+-rwxr-xr-x  1 root root       6224 3月  30 07:55 tclsh8.6
+-rwxr-xr-x  1 root root      35568 2月  18 21:37 tee
+lrwxrwxrwx  1 root root         24 7月   2 03:14 telnet -> /etc/alternatives/telnet
+-rwxr-xr-x  1 root root      99840 5月   6  2015 telnet.netkit
+-rwxr-xr-x  1 root root      47824 2月  18 21:37 test
+-rwxr-xr-x  1 root root      93176 2月   7 18:18 text2ngram
+-rwxr-xr-x  1 root root      14504 1月  31 07:14 tgatoppm
+-rwxr-xr-x  1 root root       2295 11月 17  2014 tgz
+-rwxr-xr-x  1 root root      18704 1月  31 07:14 thinkjettopbm
+-rwxr-xr-x  1 root root       1795 4月  17 04:01 thresholder
+lrwxrwxrwx  1 root root         33 5月  12 03:17 thunderbird -> ../lib/thunderbird/thunderbird.sh
+-rwxr-xr-x  1 root root      72408 2月  19 16:22 tic
+-rwxr-xr-x  1 root root      18680 1月  31 07:14 tifftopnm
+-rwxr-xr-x  1 root root      31576 11月 18  2014 tificc
+-rwxr-xr-x  1 root root      15072 7月  22  2015 time
+-rwxr-xr-x  1 root root     302304 4月  12 18:34 timedatectl
+-rwxr-xr-x  1 root root      56704 2月  18 21:37 timeout
+-rwxr-xr-x  1 root root      14784 1月  13  2016 tload
+-rwxr-xr-x  1 root root      14688 2月  19 16:22 toe
+-rwxr-xr-x  1 root root     109064 1月  13  2016 top
+-rwxr-xr-x  1 root root      95160 5月  23  2012 toshset
+-rwxr-xr-x  1 root root      10232 3月  10 15:36 totem
+-rwxr-xr-x  1 root root      18512 3月  10 15:36 totem-audio-preview
+-rwxr-xr-x  1 root root      39016 3月  10 15:36 totem-video-thumbnailer
+lrwxrwxrwx  1 root root         10 7月   2 03:14 touch -> /bin/touch
+-rwxr-xr-x  1 root root      14648 2月  19 16:22 tput
+-rwxr-xr-x  1 root root      47856 2月  18 21:37 tr
+-rwxr-xr-x  1 root root      14680 5月   8  2014 tracepath
+-rwxr-xr-x  1 root root      14688 5月   8  2014 tracepath6
+lrwxrwxrwx  1 root root         29 7月   2 03:14 traceroute6 -> /etc/alternatives/traceroute6
+-rwxr-xr-x  1 root root      23104 5月   8  2014 traceroute6.iputils
+-rwxr-xr-x  1 root root      35600 11月 18  2014 transicc
+-rwxr-xr-x  1 root root     816872 3月  22 01:48 transmission-gtk
+-rwxr-xr-x  1 root root      19424 2月  10 21:42 transset
+-rwxr-xr-x  1 root root     712032 1月  29 13:15 troff
+-rwxr-xr-x  1 root root      52016 2月  18 21:37 truncate
+-rwxr-xr-x  1 root root     175624 12月 28  2015 trust
+-rwxr-xr-x  1 root root      18864 2月  19 16:22 tset
+-rwxr-xr-x  1 root root      39600 2月  18 21:37 tsort
+-rwxr-xr-x  1 root root      10624 4月  21 00:01 ttfread
+-rwxr-xr-x  1 root root      27312 2月  18 21:37 tty
+-rwxr-xr-x  1 root root      15208 4月  15 06:09 tzselect
+lrwxrwxrwx  1 root root         10 7月   2 03:14 ubuntu-bug -> apport-bug
+-rwsr-xr-x  1 root root      23288 4月  30 00:02 ubuntu-core-launcher
+-rwxr-xr-x  1 root root       5278 4月  12 18:18 ubuntu-drivers
+lrwxrwxrwx  1 root root         14 7月   2 03:14 ubuntu-software -> gnome-software
+-rwxr-xr-x  1 root root       7193 4月  12 11:58 ubuntu-support-status
+-rwxr-xr-x  1 root root      23120 2月   1 20:58 ubuntu-webapps-update-index
+-rwxr-xr-x  1 root root      40636 3月  17 04:58 ucf
+-rwxr-xr-x  1 root root      19367 3月  17 04:58 ucfq
+-rwxr-xr-x  1 root root      10722 3月  17 04:58 ucfr
+-rwxr-xr-x  1 root root      18776 5月   6  2015 ucs2any
+-rwxr-xr-x  1 root root      52520 4月   2 04:05 udisksctl
+lrwxrwxrwx  1 root root          9 7月   2 03:14 uic -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 uic3 -> qtchooser
+lrwxrwxrwx  1 root root         35 4月   5 22:49 uic-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/uic
+-rwxr-xr-x  1 root root      14648 3月   1 19:43 ul
+-rwxr-xr-x  1 root root     179280 9月  18  2015 umax_pp
+-rwxr-xr-x  1 root root      56262 2月  21 12:07 unattended-upgrade
+lrwxrwxrwx  1 root root         18 7月   2 03:14 unattended-upgrades -> unattended-upgrade
+-rwxr-xr-x  1 root root      31472 2月  18 21:37 unexpand
+-rwxr-xr-x  1 root root        530 9月  17  2015 unicode_stop
+-rwxr-xr-x  1 root root      43792 2月  18 21:37 uniq
+-rwxr-xr-x  1 root root       9182 4月  15 13:39 unity
+-rwxr-xr-x  1 root root      66016 4月  14 06:27 unity-control-center
+-rwxr-xr-x  1 root root      10560 12月 15  2015 unity-scope-loader
+lrwxrwxrwx  1 root root         50 7月   2 03:14 unity-settings-daemon -> ../lib/unity-settings-daemon/unity-settings-daemon
+-rwxr-xr-x  1 root root      44176 2月   1 20:58 unity-webapps-desktop-file
+-rwxr-xr-x  1 root root      27480 1月  15  2016 unity-webapps-qml-launcher
+-rwxr-xr-x  1 root root      19472 2月   1 20:58 unity-webapps-runner
+-rwxr-xr-x  1 root root      27280 2月  18 21:37 unlink
+lrwxrwxrwx  1 root root         24 7月   2 03:14 unlzma -> /etc/alternatives/unlzma
+-rwxr-xr-x  1 root root         52 6月  28 14:12 unopkg
+-rwxr-xr-x  1 root root      19168 4月  14 00:51 unshare
+-rwxr-xr-x  1 root root      94872 2月  24 19:33 unsquashfs
+-rwxr-xr-x  1 root root       5940 5月   6  2015 unwrapdiff
+lrwxrwxrwx  1 root root          2 7月   2 03:14 unxz -> xz
+-rwxr-xr-x  1 root root     162688 11月 20  2015 unzip
+-rwxr-xr-x  1 root root      76592 11月 20  2015 unzipsfx
+-rwxr-xr-x  1 root root      47728 1月  13  2016 update-alternatives
+lrwxrwxrwx  1 root root         26 7月   2 03:14 updatedb -> /etc/alternatives/updatedb
+-rwxr-xr-x  1 root root      43768 11月 18  2014 updatedb.mlocate
+-rwxr-xr-x  1 root root      19144 4月   5 02:39 update-desktop-database
+-rwxr-xr-x  1 root root       5637 11月 27  2015 update-gconf-defaults
+-rwxr-xr-x  1 root root       4774 4月  12 11:58 update-manager
+-rwxr-xr-x  1 root root        672 10月 24  2015 update-mime-database
+-rwxr-xr-x  1 root root      48296 10月 24  2015 update-mime-database.real
+-rwxr-xr-x  1 root root      57736 4月  12 18:44 update-notifier
+-rwxr-xr-x  1 root root      14816 2月  23 17:07 upower
+-rwxr-xr-x  1 root root      10576 1月  13  2016 uptime
+-rwxr-xr-x  1 root root       2937 1月  23 03:49 usb-creator-gtk
+-rwxr-xr-x  1 root root       4216 10月 24  2015 usb-devices
+-rwxr-xr-x  1 root root      23088 10月 24  2015 usbhid-dump
+-rwxr-xr-x  1 root root      10504 4月   7 19:48 usb_printerid
+-rwxr-xr-x  1 root root      31440 2月  18 21:37 users
+-rwxr-xr-x  1 root root      14872 4月  14 00:51 utmpdump
+-rwxr-xr-x  1 root root      10600 4月  14 00:51 uuidgen
+-rwxr-xr-x  1 root root       3674 2月  18 02:16 uxterm
+-rwxr-xr-x  1 root root       2496 11月 17  2014 uz
+lrwxrwxrwx  1 root root         20 7月   2 03:14 vi -> /etc/alternatives/vi
+lrwxrwxrwx  1 root root         22 7月   2 03:14 view -> /etc/alternatives/view
+-rwxr-xr-x  1 root root        968 4月  17 04:01 viewer
+-rwxr-xr-x  1 root root      24088 5月   6  2015 viewres
+-rwxr-xr-x  1 root root    1064592 4月   8 20:45 vim.tiny
+-rwxr-xr-x  1 root root      10592 2月  18 15:49 vino-passwd
+-rwxr-xr-x  1 root root      31912 2月  18 15:49 vino-preferences
+-rwxr-xr-x  1 root root      31216 1月  13  2016 vmstat
+-rwxr-xr-x  1 root root      10680 3月   3 22:29 vmwarectrl
+-rwxr-xr-x  1 root root      10240 2月  25  2014 volname
+-rwxr-xr-x  1 root root      23048 4月  11 14:03 vstp
+lrwxrwxrwx  1 root root         19 7月   2 03:14 w -> /etc/alternatives/w
+-rwxr-sr-x  1 root tty       27368 4月  14 00:51 wall
+-rwxr-xr-x  1 root root      23696 1月  13  2016 watch
+-rwxr-xr-x  1 root root      14328 4月   8 18:14 watchgnupg
+-rwxr-xr-x  1 root root      31112 10月 24  2015 wayland-scanner
+-rwxr-xr-x  1 root root      10352 1月  31 07:14 wbmptopbm
+-rwxr-xr-x  1 root root      43832 2月  18 21:37 wc
+-rwxr-xr-x  1 root root     559416 4月  13 23:37 webapp-container
+-rwxr-xr-x  1 root root      47200 4月  13 23:37 webapp-container-hook
+-rwxr-xr-x  1 root root     710984 4月  13 23:37 webbrowser-app
+-rwxr-xr-x  1 root root        286 2月  29 18:49 wftopfa
+-rwxr-xr-x  1 root root     474656 6月  14 16:18 wget
+-rwxr-xr-x  1 root root      48104 11月  7  2015 whatis
+-rwxr-xr-x  1 root root      23648 4月  14 00:51 whereis
+lrwxrwxrwx  1 root root         10 7月   2 03:14 which -> /bin/which
+-rwxr-xr-x  1 root root      47984 2月  18 21:37 who
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 whoami
+-rwxr-xr-x  1 root root      57096 3月  18 05:16 whoopsie
+-rwxr-xr-x  1 root root      19128 9月  10  2015 whoopsie-preferences
+-rwxr-xr-x  1 root root      18720 1月  31 07:14 winicontoppm
+lrwxrwxrwx  1 root root          7 7月   2 03:14 wish -> wish8.6
+-rwxr-xr-x  1 root root       6240 3月  14 16:42 wish8.6
+-rwxr-xr-x  1 root root      10464 2月   7 18:05 word-list-compress
+-rwxr-xr-x  1 root root      55296 1月  19 21:44 wpa_passphrase
+-rwxr-xr-x  1 root root      18928 1月  13  2016 w.procps
+lrwxrwxrwx  1 root root         23 7月   2 03:14 write -> /etc/alternatives/write
+lrwxrwxrwx  1 root root          4 7月   2 03:14 X -> Xorg
+lrwxrwxrwx  1 root root          1 7月   2 03:14 X11 -> .
+-rwxr-xr-x  1 root root     141608 2月  10 21:42 x11perf
+-rwxr-xr-x  1 root root       2807 2月  10 21:42 x11perfcomp
+lrwxrwxrwx  1 root root          7 7月   2 03:14 x86_64 -> setarch
+-rwxr-xr-x  1 root root      27768 4月   2 00:52 x86_64-linux-gnu-addr2line
+-rwxr-xr-x  1 root root      60536 4月   2 00:52 x86_64-linux-gnu-ar
+-rwxr-xr-x  1 root root     369480 4月   2 00:52 x86_64-linux-gnu-as
+-rwxr-xr-x  1 root root      27248 4月   2 00:52 x86_64-linux-gnu-c++filt
+lrwxrwxrwx  1 root root          5 7月   2 03:14 x86_64-linux-gnu-cpp -> cpp-5
+lrwxrwxrwx  1 root root          5 5月  13 01:32 x86_64-linux-gnu-cpp-5 -> cpp-5
+-rwxr-xr-x  1 root root    2720480 4月   2 00:52 x86_64-linux-gnu-dwp
+-rwxr-xr-x  1 root root      31552 4月   2 00:52 x86_64-linux-gnu-elfedit
+lrwxrwxrwx  1 root root          5 7月   2 03:14 x86_64-linux-gnu-g++ -> g++-5
+lrwxrwxrwx  1 root root          5 5月  13 01:44 x86_64-linux-gnu-g++-5 -> g++-5
+lrwxrwxrwx  1 root root          5 7月   2 03:14 x86_64-linux-gnu-gcc -> gcc-5
+lrwxrwxrwx  1 root root          5 5月  13 02:06 x86_64-linux-gnu-gcc-5 -> gcc-5
+lrwxrwxrwx  1 root root          8 7月   2 03:14 x86_64-linux-gnu-gcc-ar -> gcc-ar-5
+lrwxrwxrwx  1 root root          8 5月  13 02:06 x86_64-linux-gnu-gcc-ar-5 -> gcc-ar-5
+lrwxrwxrwx  1 root root          8 7月   2 03:14 x86_64-linux-gnu-gcc-nm -> gcc-nm-5
+lrwxrwxrwx  1 root root          8 5月  13 02:06 x86_64-linux-gnu-gcc-nm-5 -> gcc-nm-5
+lrwxrwxrwx  1 root root         12 7月   2 03:14 x86_64-linux-gnu-gcc-ranlib -> gcc-ranlib-5
+lrwxrwxrwx  1 root root         12 5月  13 02:06 x86_64-linux-gnu-gcc-ranlib-5 -> gcc-ranlib-5
+lrwxrwxrwx  1 root root          6 7月   2 03:14 x86_64-linux-gnu-gcov -> gcov-5
+lrwxrwxrwx  1 root root          6 5月  13 02:06 x86_64-linux-gnu-gcov-5 -> gcov-5
+lrwxrwxrwx  1 root root         11 7月   2 03:14 x86_64-linux-gnu-gcov-tool -> gcov-tool-5
+lrwxrwxrwx  1 root root         11 5月  13 02:06 x86_64-linux-gnu-gcov-tool-5 -> gcov-tool-5
+-rwxr-xr-x  1 root root      98616 4月   2 00:52 x86_64-linux-gnu-gprof
+lrwxrwxrwx  1 root root          6 7月   2 03:14 x86_64-linux-gnu-ld -> ld.bfd
+-rwxr-xr-x  1 root root    1220040 4月   2 00:52 x86_64-linux-gnu-ld.bfd
+-rwxr-xr-x  1 root root    2912776 4月   2 00:52 x86_64-linux-gnu-ld.gold
+-rwxr-xr-x  1 root root      40744 4月   2 00:52 x86_64-linux-gnu-nm
+-rwxr-xr-x  1 root root     224432 4月   2 00:52 x86_64-linux-gnu-objcopy
+-rwxr-xr-x  1 root root     356760 4月   2 00:52 x86_64-linux-gnu-objdump
+lrwxrwxrwx  1 root root         34 7月   2 03:14 x86_64-linux-gnu-pkg-config -> /usr/share/pkg-config-crosswrapper
+-rwxr-xr-x  1 root root      60536 4月   2 00:52 x86_64-linux-gnu-ranlib
+-rwxr-xr-x  1 root root     485184 4月   2 00:52 x86_64-linux-gnu-readelf
+-rwxr-xr-x  1 root root      31704 4月   2 00:52 x86_64-linux-gnu-size
+-rwxr-xr-x  1 root root      27728 4月   2 00:52 x86_64-linux-gnu-strings
+-rwxr-xr-x  1 root root     224440 4月   2 00:52 x86_64-linux-gnu-strip
+-rwxr-xr-x  1 root root      47944 4月   6 22:03 x86_64-pc-linux-gnu-pkg-config
+-rwxr-xr-x  1 root root      67800 2月   8 07:18 xargs
+-rwxr-xr-x  1 root root      40392 3月  27  2015 xauth
+-rwxr-xr-x  1 root root      20920 2月  10 21:42 xbiff
+-rwxr-xr-x  1 root root      10408 1月  31 07:14 xbmtopbm
+-rwxr-xr-x  1 root root     147304 4月  11 14:03 xbrlapi
+-rwxr-xr-x  1 root root      32376 2月  10 21:42 xcalc
+-rwxr-xr-x  1 root root      19272 2月  10 21:42 xclipboard
+-rwxr-xr-x  1 root root      46808 2月  10 21:42 xclock
+-rwxr-xr-x  1 root root      31800 2月  27 17:09 xcmsdb
+-rwxr-xr-x  1 root root      19976 2月  10 21:42 xconsole
+-rwxr-xr-x  1 root root      14816 2月  10 21:42 xcursorgen
+-rwxr-xr-x  1 root root      15032 2月  10 21:42 xcutsel
+-rwxr-xr-x  1 root root      19397 2月   1 22:01 xdg-desktop-icon
+-rwxr-xr-x  1 root root      42035 2月   1 22:01 xdg-desktop-menu
+-rwxr-xr-x  1 root root      26395 2月   1 22:01 xdg-email
+-rwxr-xr-x  1 root root      28787 2月   1 22:01 xdg-icon-resource
+-rwxr-xr-x  1 root root      40535 2月   1 22:01 xdg-mime
+-rwxr-xr-x  1 root root      22746 2月   1 22:01 xdg-open
+-rwxr-xr-x  1 root root      33748 2月   1 22:01 xdg-screensaver
+-rwxr-xr-x  1 root root      36544 2月   1 22:01 xdg-settings
+-rwxr-xr-x  1 root root        234 4月  14 13:45 xdg-user-dir
+-rwxr-xr-x  1 root root      19200 7月   3  2013 xdg-user-dirs-gtk-update
+-rwxr-xr-x  1 root root      18936 4月  14 13:45 xdg-user-dirs-update
+-rwxr-xr-x  1 root root       4523 4月   8 00:55 xdiagnose
+-rwxr-xr-x  1 root root      90712 2月  10 21:42 xditview
+-rwxr-xr-x  1 root root      32344 5月   6  2015 xdpyinfo
+-rwxr-xr-x  1 root root      10440 5月   6  2015 xdriinfo
+-rwxr-xr-x  1 root root       7238 4月   8 00:55 xedid
+-rwxr-xr-x  1 root root     645880 2月  10 21:42 xedit
+-rwxr-xr-x  1 root root      31512 5月   6  2015 xev
+-rwxr-xr-x  1 root root      20472 2月  10 21:42 xeyes
+-rwxr-xr-x  1 root root      29176 5月   6  2015 xfd
+-rwxr-xr-x  1 root root      37352 5月   6  2015 xfontsel
+-rwxr-xr-x  1 root root      10536 2月  27 17:09 xgamma
+-rwxr-xr-x  1 root root      64536 2月  10 21:42 xgc
+-rwxr-xr-x  1 root root     272048 2月  10 20:13 xgettext
+-rwxr-xr-x  1 root root      14824 2月  27 17:09 xhost
+-rwxr-xr-x  1 root root      14560 1月  31 07:14 ximtoppm
+-rwxr-xr-x  1 root root      19056 10月 24  2015 xinit
+-rwxr-xr-x  1 root root      52672 10月 29  2015 xinput
+-rwxr-xr-x  1 root root      10512 5月   6  2015 xkbbell
+-rwxr-xr-x  1 root root     201568 5月   6  2015 xkbcomp
+-rwxr-xr-x  1 root root      31232 5月   6  2015 xkbevd
+-rwxr-xr-x  1 root root      88632 5月   6  2015 xkbprint
+-rwxr-xr-x  1 root root      19752 5月   6  2015 xkbvleds
+-rwxr-xr-x  1 root root      19816 5月   6  2015 xkbwatch
+-rwxr-xr-x  1 root root      16982 2月  27 17:09 xkeystone
+-rwxr-xr-x  1 root root      14680 5月   6  2015 xkill
+-rwxr-xr-x  1 root root      15544 2月  10 21:42 xload
+-rwxr-xr-x  1 root root      19928 2月  10 21:42 xlogo
+-rwxr-xr-x  1 root root      10520 5月   6  2015 xlsatoms
+-rwxr-xr-x  1 root root      14696 5月   6  2015 xlsclients
+-rwxr-xr-x  1 root root      18816 5月   6  2015 xlsfonts
+-rwxr-xr-x  1 root root      37816 2月  10 21:42 xmag
+-rwxr-xr-x  1 root root      63416 2月  10 21:42 xman
+-rwxr-xr-x  1 root root      19880 5月   6  2015 xmessage
+lrwxrwxrwx  1 root root          9 7月   2 03:14 xmlpatterns -> qtchooser
+lrwxrwxrwx  1 root root          9 7月   2 03:14 xmlpatternsvalidator -> qtchooser
+-rwxr-xr-x  1 root root      31656 2月  27 17:09 xmodmap
+-rwxr-xr-x  1 root root      10776 2月  10 21:42 xmore
+-rwxr-xr-x  1 root root        274 4月   7 17:24 Xorg
+-rwxr-xr-x  1 root root       2892 4月   8 00:55 xpci
+-rwxr-xr-x  1 root root      14688 1月  31 07:14 xpmtoppm
+-rwxr-xr-x  1 root root      37912 5月   6  2015 xprop
+-rwxr-xr-x  1 root root      14744 4月   7 19:48 xqxdecode
+-rwxr-xr-x  1 root root      60256 2月  27 17:09 xrandr
+-rwxr-xr-x  1 root root       3994 4月   8 00:55 xrandr-tool
+-rwxr-xr-x  1 root root      27312 2月  27 17:09 xrdb
+-rwxr-xr-x  1 root root      10536 2月  27 17:09 xrefresh
+-rwxr-xr-x  1 root root       2809 2月  19 21:43 xrotate
+lrwxrwxrwx  1 root root         35 7月   2 03:14 x-session-manager -> /etc/alternatives/x-session-manager
+-rwxr-xr-x  1 root root      31432 2月  27 17:09 xset
+-rwxr-xr-x  1 root root      10520 2月  27 17:09 xsetmode
+-rwxr-xr-x  1 root root      10528 2月  27 17:09 xsetpointer
+-rwxr-xr-x  1 root root      18896 2月  27 17:09 xsetroot
+-rwxr-xr-x  1 root root      48904 3月   3 19:47 xsetwacom
+-rwxr-xr-x  1 root root      85800 5月   6  2015 xsm
+-rwxr-xr-x  1 root root      15256 2月  27 17:09 xstdcmap
+-rwxr-xr-x  1 root root       5126 3月  13 19:54 xsubpp
+-rwxr-xr-x  1 root root     543232 2月  18 02:16 xterm
+lrwxrwxrwx  1 root root         37 7月   2 03:14 x-terminal-emulator -> /etc/alternatives/x-terminal-emulator
+-rwxr-xr-x  1 root root      32808 2月  27 17:09 xvidtune
+-rwxr-xr-x  1 root root      14616 5月   6  2015 xvinfo
+-rwxr-xr-x  1 root root      10392 1月  31 07:14 xvminitoppm
+-rwxr-xr-x  1 root root      27184 2月  10 21:42 xwd
+-rwxr-xr-x  1 root root      18672 1月  31 07:14 xwdtopnm
+-rwxr-xr-x  1 root root      43752 5月   6  2015 xwininfo
+-rwxr-xr-x  1 root root      27144 2月  10 21:42 xwud
+lrwxrwxrwx  1 root root         31 7月   2 03:14 x-www-browser -> /etc/alternatives/x-www-browser
+-rwxr-xr-x  1 root root      18552 4月   8 20:51 xxd
+-rwxr-xr-x  1 root root      68648 2月  12  2014 xz
+lrwxrwxrwx  1 root root          2 7月   2 03:14 xzcat -> xz
+lrwxrwxrwx  1 root root          6 7月   2 03:14 xzcmp -> xzdiff
+-rwxr-xr-x  1 root root       5518 2月  12  2014 xzdiff
+lrwxrwxrwx  1 root root          6 7月   2 03:14 xzegrep -> xzgrep
+lrwxrwxrwx  1 root root          6 7月   2 03:14 xzfgrep -> xzgrep
+-rwxr-xr-x  1 root root       5421 2月  12  2014 xzgrep
+-rwxr-xr-x  1 root root       1825 2月  12  2014 xzless
+-rwxr-xr-x  1 root root       2168 2月  12  2014 xzmore
+-rwxr-xr-x  1 root root      10376 1月  31 07:14 ybmtopbm
+-rwxr-xr-x  1 root root      53296 3月  21 17:28 yelp
+-rwxr-xr-x  1 root root      31408 2月  18 21:37 yes
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 yuvsplittoppm
+-rwxr-xr-x  1 root root      10400 1月  31 07:14 yuvtoppm
+-rwxr-xr-x  1 root root      14768 4月  15 06:19 zdump
+-rwxr-xr-x  1 root root      10384 1月  31 07:14 zeisstopnm
+-rwxr-xr-x  1 root root     206000 2月  24 22:31 zeitgeist-daemon
+-rwxr-xr-x  1 root root     131760 2月  24 22:31 zeitgeist-datahub
+-rwxr-xr-x  1 root root     105752 2月  16 23:30 zenity
+-rwxr-xr-x  1 root root     192520 8月  17  2015 zip
+-rwxr-xr-x  1 root root      86224 8月  17  2015 zipcloak
+-rwxr-xr-x  1 root root      48459 3月  13 19:54 zipdetails
+-rwxr-xr-x  1 root root       2953 11月 20  2015 zipgrep
+-rwxr-xr-x  1 root root     162688 11月 20  2015 zipinfo
+-rwxr-xr-x  1 root root      81840 8月  17  2015 zipnote
+-rwxr-xr-x  1 root root      81840 8月  17  2015 zipsplit
+-rwxr-xr-x  1 root root      27064 4月   7 19:48 zjsdecode
+-rwxr-xr-x  1 root root      10336 11月 17  2015 zlib-flate

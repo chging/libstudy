@@ -1,0 +1,6 @@
+#!/bin/bash
+#Output to a file
+
+date > $HOME/gitpro/libstudy/shell/redirect_data
+who >> $HOME/gitpro/libstudy/shell/redirect_data
+ls -l $HOME/gitpro/libstudy/shell/redirect_data

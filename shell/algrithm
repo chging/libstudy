@@ -1,0 +1,9 @@
+#!/bin/bash
+#This is the first linux shell programm,just begin
+
+echo "Let's see if this'll work"
+echo 'Just output "name" string'
+echo -n "Time now: "
+date
+echo "Who is using the computer now:"
+who
