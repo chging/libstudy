@@ -1,0 +1,14 @@
+#!/bin/bash
+#This program shows how to use if-then structure
+
+if who
+then
+   echo "out put date"
+fi
+
+if ((1 \< 2))
+then
+   echo "it does work"
+fi
+
+echo "well done"
