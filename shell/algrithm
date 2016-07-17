@@ -1,9 +1,10 @@
 #!/bin/bash
-#This is the first linux shell programm,just begin
+#this program shows algrithm in shell, only interger
 
-echo "Let's see if this'll work"
-echo 'Just output "name" string'
-echo -n "Time now: "
-date
-echo "Who is using the computer now:"
-who
+var1=10
+var2=51
+var3=32
+var4=$[$var1 * ($var2 - $var3)]
+
+echo the final result is $var4
+
