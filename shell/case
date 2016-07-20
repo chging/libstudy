@@ -1,0 +1,21 @@
+#!bin/bash
+
+#case variable in
+#pattern1 | pattern2) commands1::
+#pattern3) commands2::
+#*)default commands::
+#esac
+#
+
+var=0
+
+case $var in
+0 | 2)
+  echo "matched, very good 02";;
+3) 
+echo "matched,very good 3";;
+1) 
+echo "matched, very good 1";;
+*) 
+echo "not matched";;
+esac
