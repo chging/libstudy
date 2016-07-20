@@ -1,0 +1,29 @@
+#!bin/bash
+#This program is to use test command and if
+
+#if test condition
+#then
+#   commands
+#fi
+
+#if [  condition ]
+#then 
+#  commands
+#fi
+
+val1=10
+val2=16
+
+if test $val1 -eq $val2
+then
+  echo "$val1 is equal $val2"
+else
+  echo "$val1 is not equal $val2" 
+fi
+
+if [ $val1 -gt $val2 ]
+then
+  echo "$val1 is greater than $val2"
+else
+  echo "$val1 is not greater than $val2"
+fi
