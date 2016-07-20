@@ -1,0 +1,20 @@
+#!bin/bash
+
+#for var in list
+#do
+#  commands
+#done
+
+for test in Alabama Alsska Arizona Arkansas California Colorado
+do
+  echo "The next state is $test"
+done
+
+list="Alabama Alsska Arizona Arkansas California Colorado"
+list=$list"Connecticut"
+
+for state in $list
+do
+  echo "Have you ever visited $state?"
+done
+
